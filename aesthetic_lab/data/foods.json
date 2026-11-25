@@ -1,0 +1,13 @@
+[
+  {"key":"ww-ostrich","name":"Ostrich Mince · raw","brand":"Woolworths","kcal":120,"protein":22,"carbs":0,"fat":3.5,"basis":"per 100 g raw","provenance":"Illustrative estimate; replace from pack label before precision tracking"},
+  {"key":"ww-whites","name":"Liquid Egg Whites","brand":"Woolworths","kcal":46,"protein":10.5,"carbs":0.7,"fat":0.2,"basis":"per 100 g as sold","provenance":"Illustrative estimate; replace from pack label before precision tracking"},
+  {"key":"checkers-mince","name":"Lean Beef Mince · raw","brand":"Checkers","kcal":160,"protein":21,"carbs":0,"fat":8,"basis":"per 100 g raw","provenance":"Illustrative estimate; fat content varies by pack"},
+  {"key":"pnp-chicken","name":"Skinless Chicken Breast · raw","brand":"Pick n Pay","kcal":110,"protein":23,"carbs":0,"fat":1.5,"basis":"per 100 g raw","provenance":"Illustrative estimate; replace from pack label before precision tracking"},
+  {"key":"pnp-yogurt","name":"Plain Low Fat Yoghurt","brand":"Pick n Pay","kcal":63,"protein":4.5,"carbs":7,"fat":2,"basis":"per 100 g as sold","provenance":"Illustrative estimate; replace from pack label before precision tracking"},
+  {"key":"sasko-oats","name":"Oats · dry (requested catalogue entry)","brand":"SASKO","kcal":380,"protein":13,"carbs":60,"fat":8,"basis":"per 100 g dry","provenance":"Generic oats estimate; requested brand/product pairing unverified"},
+  {"key":"tastic-rice","name":"Long Grain Rice · dry","brand":"Tastic","kcal":355,"protein":7,"carbs":79,"fat":0.8,"basis":"per 100 g dry","provenance":"Illustrative estimate; do not use for cooked rice weight"},
+  {"key":"biltong","name":"Lean Beef Biltong","brand":"South African staple","kcal":260,"protein":50,"carbs":3,"fat":6,"basis":"per 100 g as sold","provenance":"Generic estimate; moisture, sugar and fat vary considerably"},
+  {"key":"boerewors","name":"Beef Boerewors · raw","brand":"South African staple","kcal":290,"protein":16,"carbs":3,"fat":24,"basis":"per 100 g raw","provenance":"Generic estimate; recipe and fat content vary considerably"},
+  {"key":"futurelife","name":"Smart Food Original · dry","brand":"Futurelife","kcal":400,"protein":16,"carbs":57,"fat":11,"basis":"per 100 g dry","provenance":"Illustrative estimate; check current variant and pack label"},
+  {"key":"pronutro","name":"Original Cereal · dry","brand":"ProNutro","kcal":380,"protein":16,"carbs":63,"fat":6,"basis":"per 100 g dry","provenance":"Illustrative estimate; check current variant and pack label"}
+]

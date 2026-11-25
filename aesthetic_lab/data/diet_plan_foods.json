@@ -1,0 +1,479 @@
+{
+  "foods": [
+    {
+      "seed_key": "diet-coco-pops-za",
+      "label": "Coco Pops · dry",
+      "search_terms": "cocopops kelloggs cereal chocolate breakfast",
+      "portions": [
+        {
+          "label": "50 g",
+          "grams": 50
+        },
+        {
+          "label": "70 g",
+          "grams": 70
+        }
+      ],
+      "note": ""
+    },
+    {
+      "seed_key": "diet-jungle-oats",
+      "label": "Jungle Oats Original · dry",
+      "search_terms": "jungle oats oatmeal rolled porridge breakfast",
+      "portions": [
+        {
+          "label": "80 g",
+          "grams": 80
+        }
+      ],
+      "note": ""
+    },
+    {
+      "seed_key": "diet-clover-authentikos-plain",
+      "label": "Clover Greek-style yoghurt · plain, double cream",
+      "search_terms": "clover greek style yoghurt yogurt authentikos",
+      "portions": [
+        {
+          "label": "100 g",
+          "grams": 100
+        },
+        {
+          "label": "250 g",
+          "grams": 250
+        }
+      ],
+      "note": "Clover Authentikos plain Greek-style yoghurt reference, with 5.5 g protein per 100 g. Choose the matching flavour and pack; this is not a strained Greek-yoghurt entry."
+    },
+    {
+      "seed_key": "diet-pnp-low-fat-uht",
+      "label": "PnP low-fat long-life milk · 1% fat reference",
+      "search_terms": "pick n pay pick and pay pnp low fat lowfat long life milk uht live well",
+      "portions": [],
+      "note": "Pick n Pay lists this table per 100 g. Log weighed milk in grams here; the app does not assume that 400 ml is 400 g. Match the 1% fat product or edit from your carton."
+    },
+    {
+      "seed_key": "diet-nutritech-premium-mass-vanilla",
+      "label": "NutriTech Premium Mass · Vanilla Soft Serve (formula reference)",
+      "search_terms": "nutritec nutritech premium mass gainer builder vanilla soft serve softserve protein powder shake",
+      "portions": [],
+      "note": "Gainer powder, with milk logged separately. The linked manufacturer label is the base formula; a current Vanilla Soft Serve pack is not independently verified. Weigh your scoop in grams instead of assuming the PDF scoop size."
+    },
+    {
+      "seed_key": "usda-sr-171287",
+      "label": "Eggs · whole, raw",
+      "search_terms": "whole eggs egg power bowl",
+      "portions": [
+        {
+          "label": "150 g",
+          "grams": 150
+        },
+        {
+          "label": "200 g",
+          "grams": 200
+        }
+      ],
+      "note": "Use edible egg weight without the shell. The portion list also supports egg counts."
+    },
+    {
+      "seed_key": "usda-sr-173944",
+      "label": "Banana · raw",
+      "search_terms": "banana fruit pre workout",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-171688",
+      "label": "Apple · raw, with skin",
+      "search_terms": "apple fruit",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-169097",
+      "label": "Orange · raw",
+      "search_terms": "orange fruit",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-168878",
+      "label": "Rice · cooked, long grain",
+      "search_terms": "rice cooked white tastic lunch dinner",
+      "portions": [
+        {
+          "label": "80 g",
+          "grams": 80
+        },
+        {
+          "label": "100 g",
+          "grams": 100
+        },
+        {
+          "label": "150 g",
+          "grams": 150
+        },
+        {
+          "label": "250 g",
+          "grams": 250
+        },
+        {
+          "label": "300 g",
+          "grams": 300
+        }
+      ],
+      "note": "For rice weighed after cooking. Use the separate dry-rice entry for uncooked weight."
+    },
+    {
+      "seed_key": "usda-sr-168877",
+      "label": "Rice · dry, long grain",
+      "search_terms": "rice dry uncooked tastic",
+      "portions": [
+        {
+          "label": "25 g",
+          "grams": 25
+        },
+        {
+          "label": "30 g",
+          "grams": 30
+        },
+        {
+          "label": "50 g",
+          "grams": 50
+        }
+      ],
+      "note": "For rice weighed before cooking; cooked rice has its own entry."
+    },
+    {
+      "seed_key": "usda-sr-170250",
+      "label": "Rice cakes · plain",
+      "search_terms": "rice cakes pre workout snack",
+      "portions": [
+        {
+          "label": "9 g",
+          "grams": 9
+        },
+        {
+          "label": "18 g",
+          "grams": 18
+        },
+        {
+          "label": "27 g",
+          "grams": 27
+        }
+      ],
+      "note": "Reference cake weight is 9 g; cake sizes vary by pack. You can always enter the weighed amount."
+    },
+    {
+      "seed_key": "usda-sr-168000",
+      "label": "Chocolate hazelnut spread",
+      "search_terms": "hazelnut chocolate nutella spread",
+      "portions": [
+        {
+          "label": "30 g",
+          "grams": 30
+        }
+      ],
+      "note": "Generic spread reference; use your pack label for a specific brand."
+    },
+    {
+      "seed_key": "usda-sr-171477",
+      "label": "Chicken breast · cooked, roasted",
+      "search_terms": "chicken breast grilled air fried dinner supper",
+      "portions": [
+        {
+          "label": "200 g",
+          "grams": 200
+        }
+      ],
+      "note": "Cooked skinless chicken reference. Log oils separately; choose raw chicken if weighed before cooking."
+    },
+    {
+      "seed_key": "usda-sr-171077",
+      "label": "Chicken breast · raw, skinless",
+      "search_terms": "chicken breast raw uncooked",
+      "portions": [
+        {
+          "label": "200 g",
+          "grams": 200
+        }
+      ],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-170472",
+      "label": "Mixed vegetables · cooked",
+      "search_terms": "vegetables mixed veggies cooked",
+      "portions": [
+        {
+          "label": "100 g",
+          "grams": 100
+        },
+        {
+          "label": "150 g",
+          "grams": 150
+        },
+        {
+          "label": "200 g",
+          "grams": 200
+        }
+      ],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-170471",
+      "label": "Mixed vegetables · frozen, unprepared",
+      "search_terms": "vegetables mixed veggies frozen raw",
+      "portions": [
+        {
+          "label": "100 g",
+          "grams": 100
+        },
+        {
+          "label": "150 g",
+          "grams": 150
+        },
+        {
+          "label": "200 g",
+          "grams": 200
+        }
+      ],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-169736",
+      "label": "Spaghetti / pasta · dry",
+      "search_terms": "spaghetti spagetti pasta dry uncooked",
+      "portions": [
+        {
+          "label": "50 g",
+          "grams": 50
+        },
+        {
+          "label": "120 g",
+          "grams": 120
+        },
+        {
+          "label": "150 g",
+          "grams": 150
+        }
+      ],
+      "note": "These PDF pasta portions are dry weights. Use the separate cooked entry if you weigh it after cooking."
+    },
+    {
+      "seed_key": "usda-sr-169737",
+      "label": "Spaghetti / pasta · cooked",
+      "search_terms": "spaghetti pasta cooked",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-171192",
+      "label": "Tomato pasta sauce · marinara",
+      "search_terms": "tomato sauce pasta spaghetti marinara",
+      "portions": [],
+      "note": "Generic pasta sauce reference; recipes and oil content vary."
+    },
+    {
+      "seed_key": "usda-sr-173414",
+      "label": "Cheddar cheese",
+      "search_terms": "cheese cheddar grated",
+      "portions": [
+        {
+          "label": "30 g",
+          "grams": 30
+        }
+      ],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-170845",
+      "label": "Mozzarella cheese · whole milk",
+      "search_terms": "cheese mozzarella grated",
+      "portions": [
+        {
+          "label": "30 g",
+          "grams": 30
+        }
+      ],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-169640",
+      "label": "Honey",
+      "search_terms": "honey sweetener pre workout",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-171413",
+      "label": "Olive oil",
+      "search_terms": "olive oil cooking salad",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-171430",
+      "label": "Cooking spray · PAM reference",
+      "search_terms": "cooking spray oil spray and cook spray n cook",
+      "portions": [
+        {
+          "label": "1 g",
+          "grams": 1
+        }
+      ],
+      "note": "Sprays contain calories. Weigh the amount used; the listed spray count is specific to the reference product."
+    },
+    {
+      "seed_key": "usda-sr-169878",
+      "label": "Sugar-free syrup · reference",
+      "search_terms": "sugar free sugarfree syrup sweetener",
+      "portions": [],
+      "note": "Sugar-free does not always mean calorie-free. Match the pack label for your syrup."
+    },
+    {
+      "seed_key": "usda-sr-171890",
+      "label": "Black coffee · brewed",
+      "search_terms": "black coffee brewed unsweetened",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-171870",
+      "label": "Energy drink · Red Bull sugar free reference",
+      "search_terms": "energy drink sugar free sugarfree",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-171935",
+      "label": "Energy drink · Monster original reference",
+      "search_terms": "energy drink regular original",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "diet-pure-creatine",
+      "label": "Creatine monohydrate · pure, unflavoured",
+      "search_terms": "creatine supplement powder",
+      "portions": [
+        {
+          "label": "5 g",
+          "grams": 5
+        }
+      ],
+      "note": "For pure unflavoured creatine only; flavoured blends may contain other ingredients. The quick weight is copied from your PDF, not a dosage recommendation."
+    },
+    {
+      "seed_key": "usda-sr-174158",
+      "label": "Water · plain",
+      "search_terms": "water hydration",
+      "portions": [],
+      "note": ""
+    },
+    {
+      "seed_key": "usda-sr-173468",
+      "label": "Salt · table",
+      "search_terms": "salt seasoning",
+      "portions": [],
+      "note": ""
+    }
+  ],
+  "products": [
+    {
+      "key": "diet-coco-pops-za",
+      "name": "Coco Pops Original · dry (South African reference)",
+      "brand": "Kellogg's",
+      "kcal": 332,
+      "protein": 8.5,
+      "carbs": 69,
+      "fat": 0.5,
+      "basis": "per 100 g dry cereal; milk logged separately",
+      "provenance": "Published South African nutrition reference (FatSecret), retrieved 2026-11-02. Recipes change; verify against your current pack. Not values inferred from the diet PDF.",
+      "source_url": "https://www.fatsecret.co.za/calories-nutrition/kelloggs/coco-pops/100g",
+      "category": "Breakfast Cereals",
+      "featured": 1,
+      "portions_json": "[]",
+      "search_terms": "cocopops kelloggs coco pops chocolate cereal"
+    },
+    {
+      "key": "diet-jungle-oats",
+      "name": "Jungle Oats Original · dry",
+      "brand": "Jungle",
+      "kcal": 378.59,
+      "protein": 13.1,
+      "carbs": 57,
+      "fat": 7.9,
+      "basis": "per 100 g dry oats; milk logged separately",
+      "provenance": "Manufacturer reference: Tiger Brands Jungle Oats 10 kg foodservice product, retrieved 2026-11-02. Energy converted from 1584 kJ per 100 g. Check your retail pack and variant.",
+      "source_url": "https://www.tigerbrandsfoodservicesolutions.com/product-categories/jungle/Jungle-Oats-10-kg",
+      "category": "Breakfast Cereals",
+      "featured": 1,
+      "portions_json": "[]",
+      "search_terms": "jungle oats original oatmeal porridge dry"
+    },
+    {
+      "key": "diet-pure-creatine",
+      "name": "Creatine monohydrate · pure, unflavoured (reference)",
+      "brand": "Generic reference",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "basis": "per 100 g pure unflavoured powder",
+      "provenance": "Pure-creatine reference using the published Genesis Nutriforce unflavoured label, retrieved 2026-11-02. Not a reference for flavoured or carbohydrate-containing blends.",
+      "source_url": "https://genesisnutriforce.co.za/creatine-monohydrate/",
+      "category": "Supplements",
+      "featured": 1,
+      "portions_json": "[]",
+      "search_terms": "creatine monohydrate pure unflavoured supplement"
+    },
+    {
+      "key": "diet-clover-authentikos-plain",
+      "name": "Authentikos Greek-style yoghurt · double cream, plain",
+      "brand": "Clover",
+      "kcal": 91.54,
+      "protein": 5.5,
+      "carbs": 6,
+      "fat": 5,
+      "basis": "per 100 g as packed",
+      "provenance": "Manufacturer reference: Clover Authentikos double-cream plain Greek-style yoghurt, retrieved 2026-11-02. Published energy 383 kJ per 100 g. Match the plain product; other flavours differ.",
+      "source_url": "https://www.clover.co.za/product/yoghurt/authentikos/double-cream-plain-yoghurt-750g/",
+      "category": "Dairy and Egg Products",
+      "featured": 1,
+      "portions_json": "[]",
+      "search_terms": "clover greek style yoghurt yogurt authentikos"
+    },
+    {
+      "key": "diet-pnp-low-fat-uht",
+      "name": "Live Well Low Fat Long Life Milk · 1% fat reference",
+      "brand": "Pick n Pay",
+      "kcal": 43.26,
+      "protein": 3.4,
+      "carbs": 5,
+      "fat": 1,
+      "basis": "per 100 g as published by Pick n Pay",
+      "provenance": "Manufacturer reference: Pick n Pay Live Well low-fat long-life milk, retrieved 2026-11-02. Retailer table states per 100 g, energy 181 kJ, fat 1.0 g. Check your carton; older or other variants can differ. No volume-to-weight conversion is assumed.",
+      "source_url": "https://www.pnp.co.za/pnp-live-well-low-fat-long-life-milk-6-x-1l/p/000000000000349244_CS",
+      "category": "Dairy and Egg Products",
+      "featured": 1,
+      "portions_json": "[]",
+      "search_terms": "pnp pick and pay pick n pay low fat lowfat milk uht long life"
+    },
+    {
+      "key": "diet-nutritech-premium-mass-vanilla",
+      "name": "Premium Mass Builder · Vanilla Soft Serve (base-formula reference)",
+      "brand": "NutriTech",
+      "kcal": 357.07,
+      "protein": 37.5,
+      "carbs": 50,
+      "fat": 0.25,
+      "basis": "per 100 g dry powder; milk logged separately",
+      "provenance": "Manufacturer reference: NutriTech Premium Mass Builder general nutrition panel (2016 asset), retrieved 2026-11-02: 1494 kJ, 37.5 g protein, 50 g carbohydrate, 0.25 g fat per 100 g. User requested Vanilla Soft Serve; current flavour-specific pack values are not independently verified.",
+      "source_url": "https://www.nutritechfit.com/wp-content/uploads/2016/07/NutriTechfit-Premium-Mass-Builder-15kg-typical-nutritional-information.png",
+      "category": "Supplements",
+      "featured": 1,
+      "portions_json": "[]",
+      "search_terms": "nutritec nutritech premium mass gainer builder vanilla soft serve softserve protein powder shake"
+    }
+  ]
+}

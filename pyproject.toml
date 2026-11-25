@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aesthetic-lab"
+version = "0.1.0"
+description = "Local-first hypertrophy analytics and South African nutrition"
+requires-python = ">=3.11"
+license = "AGPL-3.0-or-later"
+dependencies = ["fastapi>=0.115,<1", "uvicorn>=0.34,<1", "httpx>=0.28,<1", "anthropic>=0.49,<1", "python-dotenv>=1,<2", "mcp>=1.20,<2", "cryptography>=45", "qrcode>=8,<9"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+aesthetic-lab = "aesthetic_lab.server:main"
+
+[tool.setuptools.packages.find]
+include = ["aesthetic_lab*"]
+
+[tool.setuptools.package-data]
+aesthetic_lab = ["static/*", "data/*", "exercise_media/*", "exercise_media/photos/*", "exercise_media/diagrams/*", "exercise_media/areas/*", "exercise_media/illustrations/*", "opengym_static/*", "opengym_static/assets/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

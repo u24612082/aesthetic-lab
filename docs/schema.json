@@ -1,0 +1,284 @@
+{
+  "$defs": {
+    "SetRecord": {
+      "additionalProperties": false,
+      "properties": {
+        "exercise": {
+          "maxLength": 160,
+          "minLength": 1,
+          "title": "Exercise",
+          "type": "string"
+        },
+        "reps": {
+          "exclusiveMinimum": 0,
+          "maximum": 200,
+          "title": "Reps",
+          "type": "integer"
+        },
+        "load": {
+          "maximum": 2000,
+          "minimum": 0,
+          "title": "Load",
+          "type": "number"
+        },
+        "unit": {
+          "default": "kg",
+          "enum": [
+            "kg",
+            "lb"
+          ],
+          "title": "Unit",
+          "type": "string"
+        },
+        "rir": {
+          "anyOf": [
+            {
+              "maximum": 10,
+              "minimum": 0,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Rir"
+        },
+        "warmup": {
+          "default": false,
+          "title": "Warmup",
+          "type": "boolean"
+        },
+        "side": {
+          "default": "unknown",
+          "enum": [
+            "left",
+            "right",
+            "bilateral",
+            "unknown"
+          ],
+          "title": "Side",
+          "type": "string"
+        },
+        "equipment_id": {
+          "anyOf": [
+            {
+              "maxLength": 160,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Equipment Id"
+        },
+        "resistance_mode": {
+          "default": "unknown",
+          "enum": [
+            "standard",
+            "eccentric",
+            "concentric",
+            "unknown"
+          ],
+          "title": "Resistance Mode",
+          "type": "string"
+        },
+        "technique": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/TechniqueScores"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "required": [
+        "exercise",
+        "reps",
+        "load"
+      ],
+      "title": "SetRecord",
+      "type": "object"
+    },
+    "TechniqueScores": {
+      "additionalProperties": false,
+      "properties": {
+        "amplitudeStableScore": {
+          "anyOf": [
+            {
+              "maximum": 5,
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Amplitudestablescore"
+        },
+        "forceControlScore": {
+          "anyOf": [
+            {
+              "maximum": 5,
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Forcecontrolscore"
+        },
+        "completionScore": {
+          "anyOf": [
+            {
+              "maximum": 5,
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Completionscore"
+        },
+        "bilateralBalanceScore": {
+          "anyOf": [
+            {
+              "maximum": 5,
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Bilateralbalancescore"
+        },
+        "evidence_source": {
+          "maxLength": 160,
+          "minLength": 1,
+          "title": "Evidence Source",
+          "type": "string"
+        }
+      },
+      "required": [
+        "evidence_source"
+      ],
+      "title": "TechniqueScores",
+      "type": "object"
+    },
+    "Workout": {
+      "additionalProperties": false,
+      "properties": {
+        "external_id": {
+          "maxLength": 200,
+          "minLength": 1,
+          "title": "External Id",
+          "type": "string"
+        },
+        "revision": {
+          "default": 1,
+          "minimum": 1,
+          "title": "Revision",
+          "type": "integer"
+        },
+        "name": {
+          "default": "Strength training",
+          "maxLength": 160,
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "started_at": {
+          "format": "date-time",
+          "title": "Started At",
+          "type": "string"
+        },
+        "ended_at": {
+          "format": "date-time",
+          "title": "Ended At",
+          "type": "string"
+        },
+        "source_bundle": {
+          "anyOf": [
+            {
+              "maxLength": 200,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Source Bundle"
+        },
+        "detail_level": {
+          "enum": [
+            "summary",
+            "sets"
+          ],
+          "title": "Detail Level",
+          "type": "string"
+        },
+        "sets": {
+          "items": {
+            "$ref": "#/$defs/SetRecord"
+          },
+          "maxItems": 1000,
+          "title": "Sets",
+          "type": "array"
+        }
+      },
+      "required": [
+        "external_id",
+        "started_at",
+        "ended_at",
+        "detail_level"
+      ],
+      "title": "Workout",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": 1,
+      "default": 1,
+      "title": "Schema Version",
+      "type": "integer"
+    },
+    "source": {
+      "enum": [
+        "liftoff-healthkit",
+        "liftoff-adapter"
+      ],
+      "title": "Source",
+      "type": "string"
+    },
+    "workouts": {
+      "items": {
+        "$ref": "#/$defs/Workout"
+      },
+      "maxItems": 100,
+      "minItems": 1,
+      "title": "Workouts",
+      "type": "array"
+    }
+  },
+  "required": [
+    "source",
+    "workouts"
+  ],
+  "title": "IngestBatch",
+  "type": "object"
+}

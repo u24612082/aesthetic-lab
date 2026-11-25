@@ -1,0 +1,53 @@
+[
+ {"name":"Day 1 · Delts + Abs + Width","exercises":[
+  ["Machine Lateral Raises",3,12,77,"77 for 12","Lateral Deltoids","delts","machine"],
+  ["Cable Front Raises",2,7,18,"18 for 7 (2nd)","Anterior Deltoids","delts","cable"],
+  ["Reverse Pec Deck",3,12,null,"1 from 89 for 12 — working load to confirm","Rear Deltoids","rear deltoids","machine"],
+  ["Neutral Grip Pulldown",3,7,98,"98 for 7 (2nd) → 70 for [reps unspecified]. Drop set kept as a note.","Lats","lats","machine"],
+  ["Straight-Arm Pulldown",2,8,36,"36 for 8 (2nd)","Lats","lats","cable"],
+  ["Serratus Punches",2,8,23,"23 for 8 (2nd)","Serratus Anterior","serratus anterior","cable"],
+  ["Dragon Flags",3,7,0,"7 reps; bodyweight / added load 0","Abdominals","abs","body weight"],
+  ["Reverse Crunches",3,10,10,"10 for 10","Abdominals","abs","weighted"]
+ ]},
+ {"name":"Day 2 · Lower + Upper Chest","exercises":[
+  ["Hip Thrusts",3,10,77,"77 for 10","Glutes","glutes","machine"],
+  ["Bulgarian Split Squats",3,7,13,"13 for 7; record the same load convention each time","Quadriceps","quads","dumbbell"],
+  ["Seated Hamstring Curls",2,7,30,"30 for 7","Hamstrings","hamstrings","machine"],
+  ["Glute-Biased Leg Press",2,10,100,"100 for 10","Glutes","glutes","machine"],
+  ["Hip Abduction Machine",2,12,55,"55 for 12","Hip Abductors","abductors","machine"],
+  ["Tibialis Raises",3,12,100,"100 for 12","Tibialis Anterior","shins","machine"],
+  ["Incline Smith Press",3,8,null,"smith 25 ES for 8 — working load to confirm; no bar or plate conversion applied","Upper Chest","upper chest","smith machine"],
+  ["Low-to-High Cable Fly",2,9,30,"30 for 9 (2nd)","Upper Chest","upper chest","cable"]
+ ]},
+ {"name":"Day 3 · Upper Chest + Delts + Abs","exercises":[
+  ["Incline Dumbbell Press",3,7,30,"30 for 7","Upper Chest","upper chest","dumbbell"],
+  ["Incline Cable Fly",2,null,null,"Reps and load not supplied","Upper Chest","upper chest","cable"],
+  ["Cable Lateral Raises",3,12,77,"77 for 12","Lateral Deltoids","delts","cable"],
+  ["Lean Away Cable Laterals",2,null,null,"Reps and load not supplied","Lateral Deltoids","delts","cable"],
+  ["Dual Cable Front Raises",2,6,18,"18 for 6 (2nd)","Anterior Deltoids","delts","cable"],
+  ["Reverse Pec Deck",3,12,null,"1 from 89 for 12 — working load to confirm","Rear Deltoids","rear deltoids","machine"],
+  ["Cable Crunches",3,7,null,"3 from 70 for 7 — working load to confirm","Abdominals","abs","cable"],
+  ["Reverse Crunches",3,10,10,"10 for 10","Abdominals","abs","weighted"],
+  ["Serratus Punches",3,8,23,"23 for 8 (2nd)","Serratus Anterior","serratus anterior","cable"]
+ ]},
+ {"name":"Day 4 · Width + Delts + Abs","exercises":[
+  ["Single-Arm Pulldown",3,8,31,"31 for 8; side not inferred","Lats","lats","cable"],
+  ["Machine Neutral Row",3,9,20,"20 for 9; increase * kept as a note, not an approved load increase","Upper Back","upper back","machine"],
+  ["Pullovers",3,7,22,"22 for 7","Lats","lats","dumbbell"],
+  ["Cable Laterals",3,null,null,"Reps and load not supplied","Lateral Deltoids","delts","cable"],
+  ["Machine Laterals",2,null,null,"Reps and load not supplied","Lateral Deltoids","delts","machine"],
+  ["Reverse Pec Deck / Rear Delt Cable Fly",3,12,null,"1 from 89 for 12 — choose the apparatus and working load when logging","Rear Deltoids","rear deltoids","machine / cable"],
+  ["Garhammer Raises",3,7,0,"7 reps; bodyweight / added load 0","Abdominals","abs","body weight"],
+  ["Hanging Leg Raises",3,null,0,"Rep target not supplied; bodyweight / added load 0","Abdominals","abs","body weight"]
+ ]},
+ {"name":"Day 5 · Lower + Upper Chest","exercises":[
+  ["Leg Extensions",3,8,107,"107 for 8","Quadriceps","quads","machine"],
+  ["Quad-Focused Leg Press",3,8,100,"100 for 8","Quadriceps","quads","machine"],
+  ["Seated Hamstring Curls",3,10,70,"70 for 10; this day's prescription remains separate from Day 2","Hamstrings","hamstrings","machine"],
+  ["Cable Glute Kickbacks",null,null,null,"Set count, reps and load not supplied","Glutes","glutes","cable"],
+  ["Hip Abduction Machine",2,null,null,"Reps and load not supplied","Hip Abductors","abductors","machine"],
+  ["Tibialis Raises",3,12,91,"91 for 12","Tibialis Anterior","shins","machine"],
+  ["Incline Smith Press",3,8,30,"30 for 8 (DB); original apparatus note preserved","Upper Chest","upper chest","smith machine"],
+  ["Low-to-High Cable Fly",2,9,30,"30 for 9 (2nd)","Upper Chest","upper chest","cable"]
+ ]}
+]

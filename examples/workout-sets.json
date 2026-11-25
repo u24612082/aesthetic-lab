@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "source": "liftoff-adapter",
+  "workouts": [{
+    "external_id": "STABLE-WORKOUT-UUID-FROM-SOURCE",
+    "revision": 1,
+    "name": "Upper · Push",
+    "started_at": "2026-10-31T17:00:00+02:00",
+    "ended_at": "2026-10-31T18:05:00+02:00",
+    "detail_level": "sets",
+    "sets": [
+      {"exercise":"Incline Dumbbell Press", "reps":10, "load":32, "unit":"kg", "rir":2, "warmup":false, "side":"bilateral"},
+      {"exercise":"Cable Lateral Raise", "reps":12, "load":10, "unit":"kg", "rir":1, "warmup":false, "side":"left"},
+      {"exercise":"Cable Lateral Raise", "reps":12, "load":10, "unit":"kg", "rir":1, "warmup":false, "side":"right"}
+    ]
+  }]
+}

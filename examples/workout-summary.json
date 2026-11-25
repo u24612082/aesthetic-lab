@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "source": "liftoff-healthkit",
+  "workouts": [{
+    "external_id": "HKWORKOUT-UUID-STABLE-ACROSS-RETRIES",
+    "revision": 1,
+    "name": "Strength training",
+    "started_at": "2026-10-31T17:00:00+02:00",
+    "ended_at": "2026-10-31T18:05:00+02:00",
+    "source_bundle": "COPY-ACTUAL-LIFTOFF-BUNDLE-ID",
+    "detail_level": "summary",
+    "sets": []
+  }]
+}

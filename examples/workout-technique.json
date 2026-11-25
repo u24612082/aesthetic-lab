@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "liftoff-adapter",
+  "workouts": [{
+    "external_id": "TECHNIQUE-DEMO-UUID",
+    "revision": 1,
+    "name": "Upper · Technique review",
+    "started_at": "2026-10-31T17:00:00+02:00",
+    "ended_at": "2026-10-31T18:00:00+02:00",
+    "detail_level": "sets",
+    "sets": [{
+      "exercise": "Incline Dumbbell Press", "reps": 10, "load": 32,
+      "rir": 2, "side": "bilateral", "equipment_id": "rack-1-dumbbells",
+      "resistance_mode": "standard",
+      "technique": {
+        "amplitudeStableScore": 4, "forceControlScore": 4,
+        "completionScore": 4, "bilateralBalanceScore": 4,
+        "evidence_source": "EXAMPLE-ONLY-REPLACE-WITH-ACTUAL-SENSOR-INTEGRATION"
+      }
+    }]
+  }]
+}

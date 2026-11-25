@@ -1,0 +1,2772 @@
+{
+  "version": "illustrated-exercises-aa11e87792359806",
+  "source": "https://github.com/RepDB/exercise-dataset",
+  "revision": "66c4298af8d99b9dc397dad6699e508fb871d249",
+  "files": [
+    {
+      "url": "/exercise-media/areas/back.svg",
+      "sha256": "7217d75c4af4280d05c993d4acdb7c2dd2b6687c168867b7b4323936fd647287",
+      "bytes": 1155
+    },
+    {
+      "url": "/exercise-media/areas/cardio.svg",
+      "sha256": "36e67de50faf8b4872716bf0d31b090d80038c5f4bf62ad56cddbd67342300a3",
+      "bytes": 1159
+    },
+    {
+      "url": "/exercise-media/areas/chest.svg",
+      "sha256": "fa82b6a3daf1668a0eb212b8be31f6473c2936769e61d5dd5df2882e8a548214",
+      "bytes": 1156
+    },
+    {
+      "url": "/exercise-media/areas/lower-arms.svg",
+      "sha256": "6cc90429346db7dfb663e1f667b90e2b53f61fe1885fce505e5f428c205fd1b2",
+      "bytes": 1163
+    },
+    {
+      "url": "/exercise-media/areas/lower-legs.svg",
+      "sha256": "ecf17d5e932fe6ed3f50a81967eebfe2f5e9f58f21fcbe6848b1e281d9652bc1",
+      "bytes": 1162
+    },
+    {
+      "url": "/exercise-media/areas/neck.svg",
+      "sha256": "fd514302f44689753b7f49b8beb555e2b4c67ec757ca373e51f50ca9af493fb1",
+      "bytes": 1155
+    },
+    {
+      "url": "/exercise-media/areas/other.svg",
+      "sha256": "686a7b0f80bc1c970127468ccf360a0cb4d54fc1f4f71d8ae528fd3c4fe587cb",
+      "bytes": 1158
+    },
+    {
+      "url": "/exercise-media/areas/shoulders.svg",
+      "sha256": "26665e3a2af942b5bc886c9a0e6e50ffbca6dbc7fa87c0b979abb98dcc22f0ce",
+      "bytes": 1161
+    },
+    {
+      "url": "/exercise-media/areas/upper-arms.svg",
+      "sha256": "0b650329608be374b083c1e05b93e20ee22b9e2141de3fad1a1e7c42ab6d1ac5",
+      "bytes": 1162
+    },
+    {
+      "url": "/exercise-media/areas/upper-legs.svg",
+      "sha256": "0d773c52b6a49e1be581f0e30b8302e8cbc93f7eba9a38c6e99a976885573eda",
+      "bytes": 1162
+    },
+    {
+      "url": "/exercise-media/areas/waist.svg",
+      "sha256": "ed9937b03c898642e1ffdc268454f554782810e73456397a90ad014255249ae6",
+      "bytes": 1157
+    },
+    {
+      "url": "/exercise-media/diagrams/dragon-flag-0.svg",
+      "sha256": "4ba3a0f4faa90eb10296eb303a8c4e9893103994555b35ba595a0ee70e06f141",
+      "bytes": 1320
+    },
+    {
+      "url": "/exercise-media/diagrams/dragon-flag-1.svg",
+      "sha256": "72dcc8bc2b6193bcb5ef3088da3def68547801d126c50d0308c537613ddaaa9b",
+      "bytes": 1322
+    },
+    {
+      "url": "/exercise-media/diagrams/garhammer-raise-0.svg",
+      "sha256": "183c0da5bfecfe1ed7d318185b129ba59bc4d171cb612a61353b26ec78923fc7",
+      "bytes": 1420
+    },
+    {
+      "url": "/exercise-media/diagrams/garhammer-raise-1.svg",
+      "sha256": "8174d8db139be52c45d715cc0f28ba6e2fe8b7a44cf5c0ef43ea62793caf68a7",
+      "bytes": 1420
+    },
+    {
+      "url": "/exercise-media/diagrams/lean-away-cable-lateral-0.svg",
+      "sha256": "33ca55e6bbfb9cb44844ee33205539a74dfe6be1f4a8a675c39fa8b4d15b517e",
+      "bytes": 1717
+    },
+    {
+      "url": "/exercise-media/diagrams/lean-away-cable-lateral-1.svg",
+      "sha256": "5118d251c965adaccc1d42ae797b3f1dea96f149b23215c872e847b5fa19cca0",
+      "bytes": 1714
+    },
+    {
+      "url": "/exercise-media/diagrams/machine-lateral-raise-0.svg",
+      "sha256": "78b4b330d50005c4c122639e4adde536f5747f2e7023f2ed3bb572ac1c72e94c",
+      "bytes": 1874
+    },
+    {
+      "url": "/exercise-media/diagrams/machine-lateral-raise-1.svg",
+      "sha256": "85eb1c8ca068ba6aeaae9be817be18a43e47d9d5c5558d2163fb720df787ed5b",
+      "bytes": 1869
+    },
+    {
+      "url": "/exercise-media/diagrams/serratus-cable-punch-0.svg",
+      "sha256": "72680faa4e666b27e651c1ff36f44277939c9aa2177a2d3e1d33ae1001ffe1d5",
+      "bytes": 1683
+    },
+    {
+      "url": "/exercise-media/diagrams/serratus-cable-punch-1.svg",
+      "sha256": "43a3fdf0d5ea6d1b675a1440c3e252fa1acf17838cb067b30592243f8e5a72ae",
+      "bytes": 1683
+    },
+    {
+      "url": "/exercise-media/diagrams/tibialis-raise-0.svg",
+      "sha256": "44d554e2206c92573a347f6fcb1411eab51b8c87b9ab10c32a71160606e635ff",
+      "bytes": 1561
+    },
+    {
+      "url": "/exercise-media/diagrams/tibialis-raise-1.svg",
+      "sha256": "0a38ef95833d61130ef62758870749b4296c6cd9b00fa266b973c9810899940e",
+      "bytes": 1561
+    },
+    {
+      "url": "/exercise-media/illustrations/air-bike-main.webp",
+      "sha256": "df7cdb23508a43f1df2c861d437c61ebedc26c22b343b7aa67ef766a4f384fd7",
+      "bytes": 38044
+    },
+    {
+      "url": "/exercise-media/illustrations/band-assisted-pull-ups-peak.webp",
+      "sha256": "7d069ef83bc1542db7702f7b1d5453916787f2e7861934e02b8a724068201e49",
+      "bytes": 15030
+    },
+    {
+      "url": "/exercise-media/illustrations/band-assisted-pull-ups-start.webp",
+      "sha256": "efb2625e1a6a691b442b1b8cc32ef91f5cea1e15e350abfd409e8d1fde0ea25f",
+      "bytes": 14892
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-curl-peak.webp",
+      "sha256": "1eef7447817995ae697d976df59605a713ccec8048dd842e07f6dc9b4532d531",
+      "bytes": 14308
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-curl-start.webp",
+      "sha256": "46996e2bf0a2269609ac42052af37a211be045ee82dd1fb735c3aeea738ad4dc",
+      "bytes": 15916
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-glute-bridge-peak.webp",
+      "sha256": "6569e097c2117c37fb88a4db919e65f0ccda8cbdf31cffac5b4248fe39ca1c98",
+      "bytes": 20826
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-glute-bridge-start.webp",
+      "sha256": "8d3cadecf6170d0d1e40f2cb10bd80fc4bf86e803ea939981c19ce9ff8e804fc",
+      "bytes": 19354
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-lunge-peak.webp",
+      "sha256": "d9b2f3159bf4038068aaaa38adee72c4bb61e14f262efd4fea2d6d2abcac6ce0",
+      "bytes": 17068
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-lunge-start.webp",
+      "sha256": "059cbe36d2417ee77d019cf4ba74e0b4f0c7763e0c126ee4f9480d134c4ae604",
+      "bytes": 15340
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-rear-delt-row-peak.webp",
+      "sha256": "6dfa962ec0eaeb2f18df0de2acb2ae93d2a0fd9dadc80e7c95c991112e01672b",
+      "bytes": 19376
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-rear-delt-row-start.webp",
+      "sha256": "4da88a128cccf21297158049670104f6ada6d9eba7e41ba61d002d02a01a8311",
+      "bytes": 19648
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-row-peak.webp",
+      "sha256": "20a9acc8e7f5ef5015efafbf9c6bc9c0fc1731e4a69c795ab64775717e0fe054",
+      "bytes": 18656
+    },
+    {
+      "url": "/exercise-media/illustrations/barbell-row-start.webp",
+      "sha256": "c16991dc8f4ff4cf505237c9236f7fdd13f69911e478ba61ecf02a90ec744d94",
+      "bytes": 19438
+    },
+    {
+      "url": "/exercise-media/illustrations/bench-press-peak.webp",
+      "sha256": "8d1a88d3e497c87ee3d27840fa496c3e7a19a4f64c52521673073a5f99b8b77f",
+      "bytes": 23314
+    },
+    {
+      "url": "/exercise-media/illustrations/bench-press-start.webp",
+      "sha256": "a14c6cf3187236330740d9a6ad3bc2cc5170d447f1ca657ad6ac5545d3cb1571",
+      "bytes": 21554
+    },
+    {
+      "url": "/exercise-media/illustrations/bulgarian-split-squat-peak.webp",
+      "sha256": "d8a3ea5291af1bb8afb17f78c1cd29c2453af934b121d28dcc63cce273591e68",
+      "bytes": 18532
+    },
+    {
+      "url": "/exercise-media/illustrations/bulgarian-split-squat-start.webp",
+      "sha256": "1f4cab2db267269b55c838d5a07eb5d64cd35254d1047d1523758614270fa12a",
+      "bytes": 19082
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-crunch-peak.webp",
+      "sha256": "36b1aed14723ef8fd67c13c157d63f2484cf0e49d89a19c89670fd729f3e4b88",
+      "bytes": 22650
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-crunch-start.webp",
+      "sha256": "af994f7379d9d7115292b102b2f83ffc7e9faf90a4d2667c8450c105d54571d8",
+      "bytes": 21740
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-fly-peak.webp",
+      "sha256": "38506016c2938c335c749aa7b04f2cbe4a5dd9082db12f9d856f82cb5c677fa8",
+      "bytes": 19384
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-fly-start.webp",
+      "sha256": "b578214528bbd0e185e1b4cfbbcbd480c919e0df5b08ef1f0b975db3f902ec9d",
+      "bytes": 18042
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-front-raise-peak.webp",
+      "sha256": "93f02702f2e37b5008f0067b9861966df0a196eecba9e4361165eff769c16b09",
+      "bytes": 16962
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-front-raise-start.webp",
+      "sha256": "f6c24370e30a7c09dbfe5df32a0fe9f7d48392e8caa603ed79c6c741b2b263eb",
+      "bytes": 16460
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-kickback-peak.webp",
+      "sha256": "5ad8846642b2f648b66be71cd5f0fd17be991a2f890aef920a8d029c814924a4",
+      "bytes": 23804
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-kickback-start.webp",
+      "sha256": "9d6db17622407767b62c354d46bb4ebc85215f88d4410fd4df7576a58fac0fc2",
+      "bytes": 22754
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-lateral-raise-peak.webp",
+      "sha256": "e9a4a347c81a08f58bf3445628187dc50bc015faf052b16bfabca0ca75a73972",
+      "bytes": 21910
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-lateral-raise-start.webp",
+      "sha256": "d5dcfe2f5cc95413c97c57914d1dbec62efdf9b0b6f2b700ea8c13839ba5aa5c",
+      "bytes": 20398
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-reverse-fly-peak.webp",
+      "sha256": "6ac3ddc4d0b47cc0ac7f660a1bc444119a7b283af975e216a0f7b88a83f74037",
+      "bytes": 27436
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-reverse-fly-start.webp",
+      "sha256": "aaa2543d01533a39823d6d990d4ea71905e34ece4779a0c037bf42752d1687d3",
+      "bytes": 24732
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-wrist-curl-peak.webp",
+      "sha256": "e4f9bae72bf537d0b1736f74e8a6628d40dbf30965817b7516df4867df364f9f",
+      "bytes": 28244
+    },
+    {
+      "url": "/exercise-media/illustrations/cable-wrist-curl-start.webp",
+      "sha256": "7816f402c716f9df77712a70ef4360fe707ec4926b84c629f04a32b5993b8610",
+      "bytes": 29084
+    },
+    {
+      "url": "/exercise-media/illustrations/chest-supported-machine-row-peak.webp",
+      "sha256": "6c989a4f4539d7b854fbeb24bdfc312d23613543ef969497ae0a5c096b0597b8",
+      "bytes": 25692
+    },
+    {
+      "url": "/exercise-media/illustrations/chest-supported-machine-row-start.webp",
+      "sha256": "86a5f29399ea08822211741d38a9d47d77b9cd17ca2a6e71f2b07ed6c7f76f9c",
+      "bytes": 26870
+    },
+    {
+      "url": "/exercise-media/illustrations/chin-ups-peak.webp",
+      "sha256": "3246475a8bde7964925db5b6130873dea2f79c9e0e78f611259f59758a3a95b2",
+      "bytes": 10302
+    },
+    {
+      "url": "/exercise-media/illustrations/chin-ups-start.webp",
+      "sha256": "f4b755068366d3ab7d0b961ccc4a53f140efd18d1eac977914cefaf39a4294af",
+      "bytes": 10366
+    },
+    {
+      "url": "/exercise-media/illustrations/cocoons-peak.webp",
+      "sha256": "3df124def2a85f4c05fd43b9bdbf64653c6938f767b10e026ca1fc74a9f6fc24",
+      "bytes": 13862
+    },
+    {
+      "url": "/exercise-media/illustrations/cocoons-start.webp",
+      "sha256": "525104e883168046544836550cb895e6a1e737f313ece75f067a6dfbabc131b3",
+      "bytes": 16022
+    },
+    {
+      "url": "/exercise-media/illustrations/cross-body-crunch-peak.webp",
+      "sha256": "485e05e1418b2b3e160022d18ce0b4b0f0615d6ee1503253db9d6d30b6a51e95",
+      "bytes": 18942
+    },
+    {
+      "url": "/exercise-media/illustrations/cross-body-crunch-start.webp",
+      "sha256": "83d995d13033ece746239de20b6d1edb30ed7d0f719b308b8f213b24a11d1693",
+      "bytes": 19772
+    },
+    {
+      "url": "/exercise-media/illustrations/db-bench-press-peak.webp",
+      "sha256": "78b09b52d0232235dd317e4362a3743c06a057c74c555aa9e331c9292a05c62e",
+      "bytes": 14772
+    },
+    {
+      "url": "/exercise-media/illustrations/db-bench-press-start.webp",
+      "sha256": "9cc699a60007158c7540cf6b24727be4c5abcaae8a47edfa4808025f7b6eacb0",
+      "bytes": 12970
+    },
+    {
+      "url": "/exercise-media/illustrations/db-lunge-peak.webp",
+      "sha256": "4cbc3dcac4878d0761a46d4839f8118b6e7e9933d4a1e45403e0e8c57a763613",
+      "bytes": 15678
+    },
+    {
+      "url": "/exercise-media/illustrations/db-lunge-start.webp",
+      "sha256": "9aaa3e3983e2f8d733cf1a7509247ec3d55296e527bfc804b1b30a7140d82e84",
+      "bytes": 13304
+    },
+    {
+      "url": "/exercise-media/illustrations/db-pullover-peak.webp",
+      "sha256": "b358fc5631cca912126452f273300501c211018f073df37656df7fdb51d9c3af",
+      "bytes": 12750
+    },
+    {
+      "url": "/exercise-media/illustrations/db-pullover-start.webp",
+      "sha256": "9cf78bb9f1c28797d02b8b15cb3eb2e4dc2e428b49f5d0c4d7140d6944aa5d96",
+      "bytes": 12946
+    },
+    {
+      "url": "/exercise-media/illustrations/db-shrug-peak.webp",
+      "sha256": "f6cfe73d00c9787ed9891b07cf35089120f3e986fedcdccd90980ad899e7b9ac",
+      "bytes": 12506
+    },
+    {
+      "url": "/exercise-media/illustrations/db-shrug-start.webp",
+      "sha256": "fb1c77873c4fa6e732ade5bf04e97b317b737cbd97aba38b5de1e4a6983354f9",
+      "bytes": 13284
+    },
+    {
+      "url": "/exercise-media/illustrations/db-squat-peak.webp",
+      "sha256": "d17901b294aca3aaa202de775f56358084ed39869d9431d71dd2fe20e81ba895",
+      "bytes": 12656
+    },
+    {
+      "url": "/exercise-media/illustrations/db-squat-start.webp",
+      "sha256": "46a67c6ff1ad9f45031b4442458edd205cd05e0b478f48212005ddf2bfd6dd9d",
+      "bytes": 13174
+    },
+    {
+      "url": "/exercise-media/illustrations/dead-bug-peak.webp",
+      "sha256": "cd83d2f7aec12bfc04eafbdf6b2067443dd7194f1a34bb53ed8f79e67ad3f187",
+      "bytes": 13054
+    },
+    {
+      "url": "/exercise-media/illustrations/dead-bug-start.webp",
+      "sha256": "9fd217b722f1b49607903917c554e7532dfb77266f67543efc76ed416c3e434c",
+      "bytes": 15230
+    },
+    {
+      "url": "/exercise-media/illustrations/deadlift-peak.webp",
+      "sha256": "f0909401d6c8a6c1f681e76c2985f986a675653012e6edb078925547a51a4e73",
+      "bytes": 15070
+    },
+    {
+      "url": "/exercise-media/illustrations/deadlift-start.webp",
+      "sha256": "68a68c1acb151c3f58e54c072cb0693ecc980fe66be5eb285aa1a0b1534dfb6d",
+      "bytes": 20066
+    },
+    {
+      "url": "/exercise-media/illustrations/decline-crunch-peak.webp",
+      "sha256": "23e0d6753db7c968a8a087e100573f4a0cc884e1fd31f0be9362ff6d2600e96f",
+      "bytes": 25076
+    },
+    {
+      "url": "/exercise-media/illustrations/decline-crunch-start.webp",
+      "sha256": "c3b9c7242c611d9ac4235178ae6308c7022b926a20cb65add769dd62dce8308e",
+      "bytes": 24622
+    },
+    {
+      "url": "/exercise-media/illustrations/decline-push-up-peak.webp",
+      "sha256": "07ee480b6e2ed300481f04980b8b42d3b179fb8be1ab28e2c20c209feab0e4f5",
+      "bytes": 14218
+    },
+    {
+      "url": "/exercise-media/illustrations/decline-push-up-start.webp",
+      "sha256": "8e9684e9bad93f8e0f6e39357c94b6d190cb4be8abf548355cb74c0c7eeb5eb0",
+      "bytes": 16666
+    },
+    {
+      "url": "/exercise-media/illustrations/dips-peak.webp",
+      "sha256": "b09d41d7e694ded942d70d08cb771ee2ce088cf065308ad23caa077ae9c937e7",
+      "bytes": 15988
+    },
+    {
+      "url": "/exercise-media/illustrations/dips-start.webp",
+      "sha256": "3702e16a23affd7eabc7e0cff8404d42bd42b02c5c89619b65816d8fcfc142e3",
+      "bytes": 13820
+    },
+    {
+      "url": "/exercise-media/illustrations/donkey-calf-raise-peak.webp",
+      "sha256": "a5fdcaad78d6770f71f8b7821a625b0bf0090141b3bba46d47e1ce194e4f4e02",
+      "bytes": 14710
+    },
+    {
+      "url": "/exercise-media/illustrations/donkey-calf-raise-start.webp",
+      "sha256": "a09468ffbb0e6f63d83a66b07b7e461fe2d886e46753af72d0a96973dec31efc",
+      "bytes": 14428
+    },
+    {
+      "url": "/exercise-media/illustrations/dragon-flag-peak.webp",
+      "sha256": "014e51aa6bca920651750d7ceb7be496cbfb193e9b005a3c79a3f4ed9d26531b",
+      "bytes": 16784
+    },
+    {
+      "url": "/exercise-media/illustrations/dragon-flag-start.webp",
+      "sha256": "bdc8983afcbfd4bfe295561a3517eba0eacc20e9e9f62634e411476c05c8412e",
+      "bytes": 14426
+    },
+    {
+      "url": "/exercise-media/illustrations/dumbbell-shoulder-press-peak.webp",
+      "sha256": "f3586a0a3c0cb9137e15959e125e870399a57727cbf531981c8b1cf6a92b6cfb",
+      "bytes": 12322
+    },
+    {
+      "url": "/exercise-media/illustrations/dumbbell-shoulder-press-start.webp",
+      "sha256": "296d2bd82e662d31cf9d87d00be61a5e6707f47216e9a514f59765c61ef9db2d",
+      "bytes": 12610
+    },
+    {
+      "url": "/exercise-media/illustrations/dumbbell-side-bend-peak.webp",
+      "sha256": "2eb307677a2dbacd50e4ef65670b8f092abd39f4dff8ad1629c78870de81bc7c",
+      "bytes": 13292
+    },
+    {
+      "url": "/exercise-media/illustrations/dumbbell-side-bend-start.webp",
+      "sha256": "5faecc810c926731c99524986f95238a01f1f5f9775769d28ee2e768f7915986",
+      "bytes": 11836
+    },
+    {
+      "url": "/exercise-media/illustrations/flutter-kicks-peak.webp",
+      "sha256": "edcd997e76847da4c5f76eaf0baa79c4ec7e49b8d0c840e69ec46b65572f69c1",
+      "bytes": 13194
+    },
+    {
+      "url": "/exercise-media/illustrations/flutter-kicks-start.webp",
+      "sha256": "067a0c1781ec8f58416d72ec89836370c2d34b40450f538d8cac5b6e389b4eef",
+      "bytes": 13692
+    },
+    {
+      "url": "/exercise-media/illustrations/hammer-curl-peak.webp",
+      "sha256": "90a5a56b4801abb2fe31b420e0131499fe8688123db5a2c4b01a0741d0a522e4",
+      "bytes": 15046
+    },
+    {
+      "url": "/exercise-media/illustrations/hammer-curl-start.webp",
+      "sha256": "15f3b7da1ecd7f01d7db5878914a969d49c720dc0450f327d849d4c3dae15596",
+      "bytes": 14092
+    },
+    {
+      "url": "/exercise-media/illustrations/handstand-push-ups-peak.webp",
+      "sha256": "b5979daf30e5aad6fb9d6c38926d7645402be015163527be7381a927937928dd",
+      "bytes": 10918
+    },
+    {
+      "url": "/exercise-media/illustrations/handstand-push-ups-start.webp",
+      "sha256": "e94fa27c8f8b3c4bc8bf67ad35c52ec44589b9ce213892a303a5cd257bdcc73c",
+      "bytes": 11098
+    },
+    {
+      "url": "/exercise-media/illustrations/hanging-leg-raise-peak.webp",
+      "sha256": "b1b1a0cdb5c21b0b9baee9e5d4f5fc51eef8c110a80971c1f2a753272bd8497d",
+      "bytes": 16006
+    },
+    {
+      "url": "/exercise-media/illustrations/hanging-leg-raise-start.webp",
+      "sha256": "b1f318a2e21d44c666e30eb0898b5c7d808c8e4ff903cc794778f62284ab98e7",
+      "bytes": 11824
+    },
+    {
+      "url": "/exercise-media/illustrations/hanging-pike-peak.webp",
+      "sha256": "f3dd632d48f4134300bbec8589509e45818a68f88eefdfbb1fa52ee4e4c7db2c",
+      "bytes": 16550
+    },
+    {
+      "url": "/exercise-media/illustrations/hanging-pike-start.webp",
+      "sha256": "85b218c93af829652a6985f3f87648653907f5d02a783d2768bf2ae528a01971",
+      "bytes": 11502
+    },
+    {
+      "url": "/exercise-media/illustrations/high-foot-leg-press-peak.webp",
+      "sha256": "ec68d17c007d243ffd314c6b220e225204899080b29751f7c615f6042cc01bea",
+      "bytes": 31876
+    },
+    {
+      "url": "/exercise-media/illustrations/high-foot-leg-press-start.webp",
+      "sha256": "be77b71906ff17371fdc4e7491bfc555a60ec26143f553bd908203b73fb20539",
+      "bytes": 32804
+    },
+    {
+      "url": "/exercise-media/illustrations/hip-abduction-peak.webp",
+      "sha256": "1f2dad8345bcd5be041e63f29d47a62f1940a0aa08fee8ad1293ce203024ca62",
+      "bytes": 21572
+    },
+    {
+      "url": "/exercise-media/illustrations/hip-abduction-start.webp",
+      "sha256": "c262a71488719ef76f5c787b890f1cf10a109991d48236492391ebe968c9ef9e",
+      "bytes": 19450
+    },
+    {
+      "url": "/exercise-media/illustrations/hip-thrust-peak.webp",
+      "sha256": "6794aee8a00e985068dedfa37bffee1c4f0a9f6d56867a27a1c948c072207a12",
+      "bytes": 18314
+    },
+    {
+      "url": "/exercise-media/illustrations/hip-thrust-start.webp",
+      "sha256": "9ebed9ca43e730f993889992401250113c8522f6f962b96ecbc35605875d3185",
+      "bytes": 16702
+    },
+    {
+      "url": "/exercise-media/illustrations/inchworm-peak.webp",
+      "sha256": "4786c30cc9d16f53fcec059856ae9d1399929c50bd17d4a0135c93e419043d3b",
+      "bytes": 14612
+    },
+    {
+      "url": "/exercise-media/illustrations/inchworm-start.webp",
+      "sha256": "f5346bdad67c5d6c10bf88858d2c799be9daa307019412dcfc949bf8949d5b08",
+      "bytes": 20468
+    },
+    {
+      "url": "/exercise-media/illustrations/incline-bench-press-peak.webp",
+      "sha256": "76764916f278d91d043e73ecd2feb00b566b78d76d845b58103edae06b22c4f4",
+      "bytes": 22316
+    },
+    {
+      "url": "/exercise-media/illustrations/incline-bench-press-start.webp",
+      "sha256": "804537bd7f59f42a45c183fdfa8bdce96e9778617253e4643013dde5b0cc13cc",
+      "bytes": 21584
+    },
+    {
+      "url": "/exercise-media/illustrations/incline-db-press-peak.webp",
+      "sha256": "a991276652817062d451334f42ddf30efe3bca81d181abf9056287058492283b",
+      "bytes": 17546
+    },
+    {
+      "url": "/exercise-media/illustrations/incline-db-press-start.webp",
+      "sha256": "6d0b56825dc11ab72a74ff8313438f8e05556bc0c6b8d6d1b6da98425e585292",
+      "bytes": 18332
+    },
+    {
+      "url": "/exercise-media/illustrations/incline-push-ups-peak.webp",
+      "sha256": "abb0b2e2996bcdfeb1f867f68fa1217de5d5a6122738de51121bdb1b1b27e5f1",
+      "bytes": 15834
+    },
+    {
+      "url": "/exercise-media/illustrations/incline-push-ups-start.webp",
+      "sha256": "46b0c59719cc2c5f9fb29035f3f283fa269fccfe446f685553596393e3761c6f",
+      "bytes": 16930
+    },
+    {
+      "url": "/exercise-media/illustrations/inverted-row-peak.webp",
+      "sha256": "6b4e7b6bec2ec479d354ae6980276c052cbd1639104b45fff47ad9dc7dc96c34",
+      "bytes": 19762
+    },
+    {
+      "url": "/exercise-media/illustrations/inverted-row-start.webp",
+      "sha256": "7f9c309c4a05632ee2a7db58fe39f3665541f2a5194dc1d711012fb85d27b218",
+      "bytes": 18826
+    },
+    {
+      "url": "/exercise-media/illustrations/jackknife-sit-up-peak.webp",
+      "sha256": "c5f77b69375e815d7b3be9c53b4fe1cf5af0b4b98e0ac643c4b86c910a88b9cd",
+      "bytes": 19596
+    },
+    {
+      "url": "/exercise-media/illustrations/jackknife-sit-up-start.webp",
+      "sha256": "b63e623ef3d3fa5e4a0ba9b42d3dfc6c486d6094c69551d6099498eb9b0c0d02",
+      "bytes": 13958
+    },
+    {
+      "url": "/exercise-media/illustrations/kettlebell-pistol-squat-peak.webp",
+      "sha256": "35a17862d30f15358062b4c5319693d279c7dd759c174b6523e1ec2c76298a09",
+      "bytes": 15038
+    },
+    {
+      "url": "/exercise-media/illustrations/kettlebell-pistol-squat-start.webp",
+      "sha256": "494ccd6f90abbfd929a841db54dfe5efb46a535beac08fca538a04b1437dbc6a",
+      "bytes": 13124
+    },
+    {
+      "url": "/exercise-media/illustrations/kettlebell-sumo-high-pull-peak.webp",
+      "sha256": "57646c24fad4eec4527efa8e1039626fd79e3f21a5f2f410c843e3901f3138ec",
+      "bytes": 16704
+    },
+    {
+      "url": "/exercise-media/illustrations/kettlebell-sumo-high-pull-start.webp",
+      "sha256": "0659629cdb426f925d71d565614ce9a165879f9f86adb1c3cb56a8c27025be4e",
+      "bytes": 13386
+    },
+    {
+      "url": "/exercise-media/illustrations/kettlebell-windmills-peak.webp",
+      "sha256": "21f70e22ed0ea4de68bcac160421a453f03b797fc9b0d5038514bfe4fbfb56f7",
+      "bytes": 14082
+    },
+    {
+      "url": "/exercise-media/illustrations/kettlebell-windmills-start.webp",
+      "sha256": "171c15e3bdeb4959f1bd2b660469a0fb58c2a0a871f82ab931a110187d0085c3",
+      "bytes": 12834
+    },
+    {
+      "url": "/exercise-media/illustrations/lat-pulldown-peak.webp",
+      "sha256": "5045afd713161db9944719f7168c492ca7d9a822bc54c9cd23b085b3c904810c",
+      "bytes": 16258
+    },
+    {
+      "url": "/exercise-media/illustrations/lat-pulldown-start.webp",
+      "sha256": "4cb61a49bfacf947b81d86c8f6c51735bcf5e7c073297a3cb67e9a71d59292a6",
+      "bytes": 16552
+    },
+    {
+      "url": "/exercise-media/illustrations/lateral-raise-peak.webp",
+      "sha256": "65f3e3180a2ff014664e485266032beb75d336af89998ee526941008bb58306b",
+      "bytes": 14494
+    },
+    {
+      "url": "/exercise-media/illustrations/lateral-raise-start.webp",
+      "sha256": "6993bfa0e16b060901792e7500b9e5481f15e93a24c3f7fc7c733316de6b6e2e",
+      "bytes": 13098
+    },
+    {
+      "url": "/exercise-media/illustrations/leg-curl-peak.webp",
+      "sha256": "e1f4229433709ce48f3c317693a23d6a8e2525497328cad3b8235f3aad9b4911",
+      "bytes": 21096
+    },
+    {
+      "url": "/exercise-media/illustrations/leg-curl-start.webp",
+      "sha256": "9eed895562e2a3d7ade074fc59c3b56a07230a3a97ed5a3d35a0fa5eb6ed5e1f",
+      "bytes": 20646
+    },
+    {
+      "url": "/exercise-media/illustrations/leg-extension-peak.webp",
+      "sha256": "04f79670ee65dd0e3ae710221942c2f3e1b27b696516ce87c8936c32539d4acc",
+      "bytes": 19168
+    },
+    {
+      "url": "/exercise-media/illustrations/leg-extension-start.webp",
+      "sha256": "97c34b7bbd7c3278bff9b8fb5e80263f5e9254e567f8068833d611d67318b030",
+      "bytes": 17456
+    },
+    {
+      "url": "/exercise-media/illustrations/leg-press-peak.webp",
+      "sha256": "2115ffe5c1363ad8de2b4410ef20ce43aa4b4959dcd2fb77de1579772c9c49ae",
+      "bytes": 38040
+    },
+    {
+      "url": "/exercise-media/illustrations/leg-press-start.webp",
+      "sha256": "68c7769b023cab2ffd3d5fd1877fc7d2b1d102f9a1b0412ae67f9cf412f38dd2",
+      "bytes": 32620
+    },
+    {
+      "url": "/exercise-media/illustrations/machine-reverse-fly-peak.webp",
+      "sha256": "7573aed858e9321978810705a805eb2b53470b00b82c9e9ca79ba973c1a6bfee",
+      "bytes": 30618
+    },
+    {
+      "url": "/exercise-media/illustrations/machine-reverse-fly-start.webp",
+      "sha256": "f8e602c61cd62e904b992e22a53522dad5e0d30b2f52c320fed960a5de7cf93b",
+      "bytes": 28066
+    },
+    {
+      "url": "/exercise-media/illustrations/mountain-climbers-peak.webp",
+      "sha256": "8dd7f77ab3106dfb0cb1a7f2bac7e663a41342a09efa7bb8082caa733c45f04b",
+      "bytes": 14600
+    },
+    {
+      "url": "/exercise-media/illustrations/mountain-climbers-start.webp",
+      "sha256": "140332bb263e70bfe63157f34fe88f6e4d6d81e6350673f93ccfac96feaf723f",
+      "bytes": 13920
+    },
+    {
+      "url": "/exercise-media/illustrations/muscle-ups-peak.webp",
+      "sha256": "031e4f3d2a69fe03ea21270490fd41a2b69072ecdf4b40d46f44634d38c69219",
+      "bytes": 12372
+    },
+    {
+      "url": "/exercise-media/illustrations/muscle-ups-start.webp",
+      "sha256": "a4f352fbea7b33089e4a9fcbd127fb07951f940ac8d1bfb0c2d66041b4856ded",
+      "bytes": 14330
+    },
+    {
+      "url": "/exercise-media/illustrations/one-arm-lat-pulldown-peak.webp",
+      "sha256": "49262f467252c4e4bdbd99931720a9f77b776fea5e49fdb57f815ef07009ee3f",
+      "bytes": 17020
+    },
+    {
+      "url": "/exercise-media/illustrations/one-arm-lat-pulldown-start.webp",
+      "sha256": "3d8bf06d982eff8ba877f4e1652b3299fd10143a4c2b019a41efe9d28e238bdd",
+      "bytes": 15544
+    },
+    {
+      "url": "/exercise-media/illustrations/plate-loaded-glute-drive-peak.webp",
+      "sha256": "57b3804f5b723e843f13acbc5c64869500bda216b1e70b39ee1c1ffebb9bcadf",
+      "bytes": 34106
+    },
+    {
+      "url": "/exercise-media/illustrations/plate-loaded-glute-drive-start.webp",
+      "sha256": "bc8db0d4681912935249b19db02fc94698b521d55484b3bb7c155f495b5f2826",
+      "bytes": 34026
+    },
+    {
+      "url": "/exercise-media/illustrations/plate-loaded-lateral-raise-peak.webp",
+      "sha256": "143f9c749cfb6a53f05bc054eeb13c49ca2664820fa3724bc8d11ec038eb44e8",
+      "bytes": 30872
+    },
+    {
+      "url": "/exercise-media/illustrations/plate-loaded-lateral-raise-start.webp",
+      "sha256": "5f64ef7d5db10e2e1f693fadce97cfb5b28fe84813ea3a2a29f509492ee65b04",
+      "bytes": 34858
+    },
+    {
+      "url": "/exercise-media/illustrations/plyo-push-up-peak.webp",
+      "sha256": "f5b6d59c42840677a3eb84a9c71bca7f90d9995d6b87db3ce6136844762c8523",
+      "bytes": 16394
+    },
+    {
+      "url": "/exercise-media/illustrations/plyo-push-up-start.webp",
+      "sha256": "12a63efd69587158fe205ebe20f79bb26e60ea9cc1e264008f9785f8b8b299a9",
+      "bytes": 13330
+    },
+    {
+      "url": "/exercise-media/illustrations/pull-up-peak.webp",
+      "sha256": "f4c8c624ba27f8f9efd969cf066f24ef388e3ed68dcd287f55927d8b50a9aace",
+      "bytes": 10124
+    },
+    {
+      "url": "/exercise-media/illustrations/pull-up-start.webp",
+      "sha256": "59f142697771f71a5070e3a357c22b001d6f172e5cb74247f949410513418514",
+      "bytes": 10902
+    },
+    {
+      "url": "/exercise-media/illustrations/push-up-peak.webp",
+      "sha256": "c11e6746ea723d9e5699f149eb8903172118a44c7d435a0d30551a4732a87ef3",
+      "bytes": 15476
+    },
+    {
+      "url": "/exercise-media/illustrations/push-up-start.webp",
+      "sha256": "55e3ebf775129451c97ccfc191e50cfb2c0a51c016bcac401477f504624554e6",
+      "bytes": 14358
+    },
+    {
+      "url": "/exercise-media/illustrations/reverse-crunches-peak.webp",
+      "sha256": "c2420dbfb09f90cbe2a9c636bd523761129643752d0ec977954fbf2281751e77",
+      "bytes": 15652
+    },
+    {
+      "url": "/exercise-media/illustrations/reverse-crunches-start.webp",
+      "sha256": "fea37b7542c75ce92c43d40f607593e5d5f97aa92187311e85f9411ffffe86e3",
+      "bytes": 13914
+    },
+    {
+      "url": "/exercise-media/illustrations/ring-dips-peak.webp",
+      "sha256": "1aad73769cf0dd7edb82b12e5a66cf521e482f6fc2e930a3b5a4805a7b3678ad",
+      "bytes": 14310
+    },
+    {
+      "url": "/exercise-media/illustrations/ring-dips-start.webp",
+      "sha256": "5a8f77b1c2cc1d80653f4e04517aadd96bd77154676dec043882d0cf849105ac",
+      "bytes": 12762
+    },
+    {
+      "url": "/exercise-media/illustrations/romanian-deadlift-peak.webp",
+      "sha256": "88602d0076e4401a13037daf77faa3482731f7e11c876b099704b0d9e0b11553",
+      "bytes": 12540
+    },
+    {
+      "url": "/exercise-media/illustrations/romanian-deadlift-start.webp",
+      "sha256": "5385feab2763a9d09e590f2f81e04fb694ca2bd9eeacfd55fb1b0d05b1cf9677",
+      "bytes": 10440
+    },
+    {
+      "url": "/exercise-media/illustrations/rope-climb-main.webp",
+      "sha256": "3fb0b173727f576b02d40fd358c47e64ecaa3532728259c76d7c7e345865c0cf",
+      "bytes": 12472
+    },
+    {
+      "url": "/exercise-media/illustrations/russian-twist-peak.webp",
+      "sha256": "53af13e44c67b449a9bd62c0ad045b10e35878dd97cd712e620ee2b3ecfe2b09",
+      "bytes": 14680
+    },
+    {
+      "url": "/exercise-media/illustrations/russian-twist-start.webp",
+      "sha256": "88daeb1d598efa922d06feea2cbff48ed0a8eb028fc64918849c9a8b877c797a",
+      "bytes": 16472
+    },
+    {
+      "url": "/exercise-media/illustrations/scapular-pull-ups-peak.webp",
+      "sha256": "a543922934ed53ab2e7f4d8e298467ca12730f53357c8ffcbb8f0e39cd878029",
+      "bytes": 13030
+    },
+    {
+      "url": "/exercise-media/illustrations/scapular-pull-ups-start.webp",
+      "sha256": "e94301c05957e9deaadad6c470f6a1fcc18d606e82f5aed1f8cd8fbcaa84e54d",
+      "bytes": 13644
+    },
+    {
+      "url": "/exercise-media/illustrations/seated-cable-row-peak.webp",
+      "sha256": "b6c89248754775244d474ca1c0920635048295e62943110673a283aa8f9408ea",
+      "bytes": 23750
+    },
+    {
+      "url": "/exercise-media/illustrations/seated-cable-row-start.webp",
+      "sha256": "6da660d7da5d9cf216fe062d02c53a8b0331f3be0ea39176381653cd5eac2d0f",
+      "bytes": 22740
+    },
+    {
+      "url": "/exercise-media/illustrations/seated-leg-curl-peak.webp",
+      "sha256": "7a493472aa088be76e4ffd1a66a294902b7beb427aa6aad15f2efcb6afbb8619",
+      "bytes": 32804
+    },
+    {
+      "url": "/exercise-media/illustrations/seated-leg-curl-start.webp",
+      "sha256": "dffec37199e454715880ca446f561dfbd291deab859fc300dd90ae3713de4740",
+      "bytes": 30984
+    },
+    {
+      "url": "/exercise-media/illustrations/shrug-peak.webp",
+      "sha256": "69c53c04e2baefd32fb2a5f907a5bf68ebe679f287bca5e439eec82fa6e1281a",
+      "bytes": 14784
+    },
+    {
+      "url": "/exercise-media/illustrations/shrug-start.webp",
+      "sha256": "c910816179140224984224085670fea36ae44f728df52f53205afc54f420e3b7",
+      "bytes": 13248
+    },
+    {
+      "url": "/exercise-media/illustrations/smith-machine-incline-bench-press-peak.webp",
+      "sha256": "c458c9b5b3eca00a7c6cf231d513d2f02072bb6b50be319378aef767f18036c5",
+      "bytes": 23414
+    },
+    {
+      "url": "/exercise-media/illustrations/smith-machine-incline-bench-press-start.webp",
+      "sha256": "3dad7f1bf3b3c504ade0c860d47770f3dcddd8d899d2aecc448935d774a0daaa",
+      "bytes": 24838
+    },
+    {
+      "url": "/exercise-media/illustrations/split-squat-peak.webp",
+      "sha256": "0d8acb0547555b0d472a9ed9442c448355068428562ac6efcef9451d0cefe941",
+      "bytes": 8782
+    },
+    {
+      "url": "/exercise-media/illustrations/split-squat-start.webp",
+      "sha256": "afc03740251ae6a52d22e1a5f0953f64c79cc4f9de32e146f19b0c6629c1f9cb",
+      "bytes": 9160
+    },
+    {
+      "url": "/exercise-media/illustrations/squat-peak.webp",
+      "sha256": "d6913ea6c3df9962f1686e693b6dbe4edc19e26f90fa49c4cb46df400825dba2",
+      "bytes": 17830
+    },
+    {
+      "url": "/exercise-media/illustrations/squat-start.webp",
+      "sha256": "e39e3084f50617552f45ccb03753fc618e47c03a2da2b139a34aaf07f9bbe99f",
+      "bytes": 15622
+    },
+    {
+      "url": "/exercise-media/illustrations/standing-calf-raise-peak.webp",
+      "sha256": "10b1c0808a7cf81a9f054b38fba90c39a61ecaff6a54cbad38b53551fb13292d",
+      "bytes": 23394
+    },
+    {
+      "url": "/exercise-media/illustrations/standing-calf-raise-start.webp",
+      "sha256": "811bd64a2b26039e5929ad7369af3de4874845238b960aeb251be56d5207a551",
+      "bytes": 23640
+    },
+    {
+      "url": "/exercise-media/illustrations/straight-arm-pulldown-peak.webp",
+      "sha256": "feb2a6d795b92d3efe61c3cabf9d194cb74fa45eb80ee38f4ca192ad26376515",
+      "bytes": 11766
+    },
+    {
+      "url": "/exercise-media/illustrations/straight-arm-pulldown-start.webp",
+      "sha256": "505884f24d576c7f0225c2499b77f75fd49c17fba84ac266e1f20d917aca159f",
+      "bytes": 11568
+    },
+    {
+      "url": "/exercise-media/illustrations/v-bar-lat-pulldown-peak.webp",
+      "sha256": "ce166bb33e8761e915181b2abb2bca39064e83ead65f458795361eca02ddc80f",
+      "bytes": 20328
+    },
+    {
+      "url": "/exercise-media/illustrations/v-bar-lat-pulldown-start.webp",
+      "sha256": "8c84cfe10a31e75142be5ff962f36b6d53b66d61e09b03833b40cc273df7d3c7",
+      "bytes": 21344
+    },
+    {
+      "url": "/exercise-media/illustrations/v-bar-tricep-pushdown-peak.webp",
+      "sha256": "d052c3367bf0d2128417479ee1b6e3f507c7eb1b093d28d644c8d6602711495b",
+      "bytes": 19242
+    },
+    {
+      "url": "/exercise-media/illustrations/v-bar-tricep-pushdown-start.webp",
+      "sha256": "71dc92767409446ccb7ff113a10cd48c9bdec9ff139242891711d726cbd91323",
+      "bytes": 14182
+    },
+    {
+      "url": "/exercise-media/illustrations/weighted-pull-up-peak.webp",
+      "sha256": "05790a258bb90600ce3ea89760b94b8ff325a0b886074bac74bf1fcf8bfcf04e",
+      "bytes": 16030
+    },
+    {
+      "url": "/exercise-media/illustrations/weighted-pull-up-start.webp",
+      "sha256": "e4df948ae5617818c0a60c0b1b27eaebbdf6d30ec932117986a4c2c6e4eee2bd",
+      "bytes": 16412
+    },
+    {
+      "url": "/exercise-media/photos/3_4_Sit-Up-0.jpg",
+      "sha256": "26e9975d65f43036864a55db2ad536d18d466c906501b57102a58319eb78e7be",
+      "bytes": 38047
+    },
+    {
+      "url": "/exercise-media/photos/3_4_Sit-Up-1.jpg",
+      "sha256": "ca79885d0ca86a84d98bc87f58fd42044c9b6d08771ea5f3241f3e148c4c601c",
+      "bytes": 39230
+    },
+    {
+      "url": "/exercise-media/photos/Air_Bike-0.jpg",
+      "sha256": "cb5b85122109ca335d96a0041864dab12afc260a6851591f92203409c13dd33f",
+      "bytes": 62771
+    },
+    {
+      "url": "/exercise-media/photos/Air_Bike-1.jpg",
+      "sha256": "8a6f4a03370c60591236c404ca587cffcc99dc9043197efcb6ad13afe1ba75b5",
+      "bytes": 64017
+    },
+    {
+      "url": "/exercise-media/photos/Alternate_Heel_Touchers-0.jpg",
+      "sha256": "fc92981d33d1d9848d8fab691ad2fe317a75c8ef07f9f4245cdbb199d8058f87",
+      "bytes": 61685
+    },
+    {
+      "url": "/exercise-media/photos/Alternate_Heel_Touchers-1.jpg",
+      "sha256": "a31b1c713c82e6fee05538cd050a731ffe21674c08e60a98753f1975470a71a3",
+      "bytes": 60807
+    },
+    {
+      "url": "/exercise-media/photos/Ankle_Circles-0.jpg",
+      "sha256": "d105df85fe7714b3e45f3dab7eaa7b2261de90c6a9a9c510965d08dc6f26f8b4",
+      "bytes": 46219
+    },
+    {
+      "url": "/exercise-media/photos/Ankle_Circles-1.jpg",
+      "sha256": "11548a0cd9584ae952dcfcca5b3dcb485e472b256db832d98acd9e0a70356531",
+      "bytes": 48579
+    },
+    {
+      "url": "/exercise-media/photos/Balance_Board-0.jpg",
+      "sha256": "99de09be076d8fde4e6601e2aab13c81b300e359ed4fa5c36e95db8fda5aad68",
+      "bytes": 50557
+    },
+    {
+      "url": "/exercise-media/photos/Balance_Board-1.jpg",
+      "sha256": "5a9d63aec21123d1bb7cf64ce9eedf9c0bd886e975ab00c71cbe328e104dada6",
+      "bytes": 50352
+    },
+    {
+      "url": "/exercise-media/photos/Band_Assisted_Pull-Up-0.jpg",
+      "sha256": "7af060c6c064e6e8a074add38c950dc59f93801ecd54b7d652172bd9800b034d",
+      "bytes": 95314
+    },
+    {
+      "url": "/exercise-media/photos/Band_Assisted_Pull-Up-1.jpg",
+      "sha256": "edc82e3a48ec624be2b920262d99399d055b96333850579b22fefa7375768a30",
+      "bytes": 100304
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Bench_Press_-_Medium_Grip-0.jpg",
+      "sha256": "44ba81b3ea124f625c555ae812b37263f82ae460749bbc9ebbeb55a6309f6663",
+      "bytes": 72816
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Bench_Press_-_Medium_Grip-1.jpg",
+      "sha256": "5056475ae5def865dbe52882d30d2730142de2b03231bda304f82fd0b088f608",
+      "bytes": 72202
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Curl-0.jpg",
+      "sha256": "eb409ec1cced4d85c91c41920e66d8b2f0e4736dee43c01eab953fdcbeace673",
+      "bytes": 60608
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Curl-1.jpg",
+      "sha256": "27474187c68680520d3c6dbd3a452bb11f1e77b5474d9143517f43d02f5d8c0e",
+      "bytes": 62920
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Deadlift-0.jpg",
+      "sha256": "f032a7e4566eb3e73258580add64bf2756cb465bfcee22fdfffbed0f43f1eae6",
+      "bytes": 69854
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Deadlift-1.jpg",
+      "sha256": "cf206d0738830af831872cfb054c7cf91a43b435f4cc20f4fdb00a2664654e90",
+      "bytes": 67563
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Full_Squat-0.jpg",
+      "sha256": "64f176d77b1edb444b35109c1c77975b44f58f374567f534338700cba3e15b38",
+      "bytes": 71421
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Full_Squat-1.jpg",
+      "sha256": "be1b63ed2cc383c0b964d51ede69f26a29ef89f40c954770a51a9e83a33134f6",
+      "bytes": 70167
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Glute_Bridge-0.jpg",
+      "sha256": "d1df1bd592523e68881b59a9f7530227401ecf641be8510ca2560b0c30d96b85",
+      "bytes": 50945
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Glute_Bridge-1.jpg",
+      "sha256": "c6028b123f187e350d30bbfaab48f0a41f2c928557424504ca49d31eec6fd8ee",
+      "bytes": 48064
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Guillotine_Bench_Press-0.jpg",
+      "sha256": "62cdf1bfa6fa889a8953b572e4a594d4d67c241b77606a339922b0e2dd179d63",
+      "bytes": 73798
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Guillotine_Bench_Press-1.jpg",
+      "sha256": "d4b79be17c2905c7da232eb8d976a5b136111b3712c6d647eb7551a547304c9a",
+      "bytes": 75145
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Hack_Squat-0.jpg",
+      "sha256": "5f88db8ea171cc094f4d155f3ce3eec69036aa2067ea4fe4101cea34cad7f5d5",
+      "bytes": 71900
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Hack_Squat-1.jpg",
+      "sha256": "6160d5fae8d00a17b8093a920e519b1094779958bfd8c719427f4556c5f9f53d",
+      "bytes": 69805
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Hip_Thrust-0.jpg",
+      "sha256": "b2c82d4647df0621e2b0568f383d14e9577f2baa458668233c86d2f738efd4c1",
+      "bytes": 53764
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Hip_Thrust-1.jpg",
+      "sha256": "de1a6390ff4b2720750ed3380c3c9b0c4c1fb5ae811810291b62d8a1fd726ad6",
+      "bytes": 52252
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Incline_Bench_Press_-_Medium_Grip-0.jpg",
+      "sha256": "4a306bb94d93afc0356252001b24e9f7defc13ab85e3c55fc3dbcb678247ffb9",
+      "bytes": 72311
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Incline_Bench_Press_-_Medium_Grip-1.jpg",
+      "sha256": "f803aa1a085cbeea3ab1d11865ab239c243f6f2ccb3e90aad91cce50f349909d",
+      "bytes": 71198
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Incline_Shoulder_Raise-0.jpg",
+      "sha256": "b670bd0abe6ae4c0f540cd50023d42d0890d92aa3cf8bc9c1a35dafd3f0594f7",
+      "bytes": 75972
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Incline_Shoulder_Raise-1.jpg",
+      "sha256": "382235d9309fed58b483b176d39d9468592e8a069e365bc7491b2b3bd7dbe937",
+      "bytes": 78082
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Lunge-0.jpg",
+      "sha256": "344bfb904d401611dc38c5021a95ee1d149da086e79e2eb4377f9a93c4d52c37",
+      "bytes": 65140
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Lunge-1.jpg",
+      "sha256": "220fbd64f2da7317603c5d8b40ba2d294c04b77348cfb576af650af31ec41e27",
+      "bytes": 70466
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Rear_Delt_Row-0.jpg",
+      "sha256": "2371b61642fc1923b9a27bbd2cd833a96952660078f04ed4ce499db36c0c27dc",
+      "bytes": 68940
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Rear_Delt_Row-1.jpg",
+      "sha256": "07f20f7d67ebfc490b2fe06028e7fa08423a0c45b629b41b9a75d7031d2c8941",
+      "bytes": 67903
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Seated_Calf_Raise-0.jpg",
+      "sha256": "d674d57f3a6bef02fb7916b5c635ff87b95d2e41d971c2db24d83aa3fc029a7d",
+      "bytes": 66650
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Seated_Calf_Raise-1.jpg",
+      "sha256": "d0a2841d94553d27e044315358a2f0c68c24e647355f49e05c228c6702f05232",
+      "bytes": 67712
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Shrug-0.jpg",
+      "sha256": "3ab3561fcb372ee7c92be8974c6fc2f9488a15bcfe2b40f261ff4531a9fe4e83",
+      "bytes": 60819
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Shrug-1.jpg",
+      "sha256": "0ada57b816f6994399fce6a6b80d194bcafd0976b4006b255383432b99fe7ee7",
+      "bytes": 62383
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Side_Split_Squat-0.jpg",
+      "sha256": "5927a80ddb679917b01034b9d95e6c64a576ac26c251acbd5b7be5704bd25acb",
+      "bytes": 68924
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Side_Split_Squat-1.jpg",
+      "sha256": "94cad02113c56202b5a8c20383918a34c938846bcffbdb951fc26f8dab4f990d",
+      "bytes": 66565
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Step_Ups-0.jpg",
+      "sha256": "aea3ae14b4b6d5c24d12db9750d1d3be11f210c0b53c29ca339044c4974d3f36",
+      "bytes": 70042
+    },
+    {
+      "url": "/exercise-media/photos/Barbell_Step_Ups-1.jpg",
+      "sha256": "630057ccd90a8e7b8fd59b29d52fcf1338f361e520da8eb97aae915c96374ffc",
+      "bytes": 61558
+    },
+    {
+      "url": "/exercise-media/photos/Battling_Ropes-0.jpg",
+      "sha256": "718354fb29eba0f932251a6c6aae8c895bf79d16966bb20e596d6934d0a4c0ac",
+      "bytes": 46106
+    },
+    {
+      "url": "/exercise-media/photos/Battling_Ropes-1.jpg",
+      "sha256": "41799a37413ebb2d9213f54ae5398e543705ea9c6ff169583b134b33dda94d35",
+      "bytes": 45522
+    },
+    {
+      "url": "/exercise-media/photos/Behind_Head_Chest_Stretch-0.jpg",
+      "sha256": "534f496a895398cdcb255303f0a6022292b731ff4385da2d76b55e5872e73282",
+      "bytes": 34785
+    },
+    {
+      "url": "/exercise-media/photos/Behind_Head_Chest_Stretch-1.jpg",
+      "sha256": "0c98a474a152832374aeacd4c0fbec833dffeea7eb047323361b01be481aa876",
+      "bytes": 34171
+    },
+    {
+      "url": "/exercise-media/photos/Bent_Over_Barbell_Row-0.jpg",
+      "sha256": "09abbeb2fca7006d0e072bdc802158b34acf7923bd3069bb835951e49a95de41",
+      "bytes": 64589
+    },
+    {
+      "url": "/exercise-media/photos/Bent_Over_Barbell_Row-1.jpg",
+      "sha256": "3c323601573df29cc9c6343765e0d21e7cd99a2dc830105099ac95ecba2cea72",
+      "bytes": 66556
+    },
+    {
+      "url": "/exercise-media/photos/Body-Up-0.jpg",
+      "sha256": "db2055f454cdc34f42e6b631f8e8faf481aa10679d311f34b278cb9d0b23814c",
+      "bytes": 38422
+    },
+    {
+      "url": "/exercise-media/photos/Body-Up-1.jpg",
+      "sha256": "6febfe27923d30aa46eaf52352ac7eab0a74c5816cf63a6b6e4d0d0e16533c0c",
+      "bytes": 43839
+    },
+    {
+      "url": "/exercise-media/photos/Bottoms_Up-0.jpg",
+      "sha256": "e29cdafaba81d940feb32cf8beab7ce0cfde2789eb4f7bf26d85def2f9c39012",
+      "bytes": 37111
+    },
+    {
+      "url": "/exercise-media/photos/Bottoms_Up-1.jpg",
+      "sha256": "2fb2f8deb62de81c5856eeadec7bbddac3e7b5b27e4d553d7764e540d62ee8c4",
+      "bytes": 37842
+    },
+    {
+      "url": "/exercise-media/photos/Butt-Ups-0.jpg",
+      "sha256": "2928424bb720b1fa84f4780f809380049ea6696734120a68f19cf114cb38c67a",
+      "bytes": 60383
+    },
+    {
+      "url": "/exercise-media/photos/Butt-Ups-1.jpg",
+      "sha256": "62f434300989d3b6078508acd10eb553c9ac51ce94f844376ec5d48ee6e5231c",
+      "bytes": 60344
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Crunch-0.jpg",
+      "sha256": "196cc4cb510ecafec24c1648c851aa160d4652917d7c0137b4cf7fb1eeb9c668",
+      "bytes": 67271
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Crunch-1.jpg",
+      "sha256": "e65fc1effc632eb78d8cda09ef95bf89c4bb235b15757e9a33306ca61a78f606",
+      "bytes": 65445
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Deadlifts-0.jpg",
+      "sha256": "0659f51178049da09b741729f7305b938a34c6de2c71c6af1c08591b28df700c",
+      "bytes": 74265
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Deadlifts-1.jpg",
+      "sha256": "08eb3ea32ff9cc4a5412cc09ad27bb672563f81d3db252c80d1b96b3b4afacd0",
+      "bytes": 72484
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Hip_Adduction-0.jpg",
+      "sha256": "1c0ac76acc6f65ebf11886dc02f093d128062e354f16d5e2fb83e0b014f7d10e",
+      "bytes": 72125
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Hip_Adduction-1.jpg",
+      "sha256": "029f13f48b62bc084ea685d3e4958e01d59bc1161e273bdb5eb2ccbedbcd3fbb",
+      "bytes": 72259
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Incline_Pushdown-0.jpg",
+      "sha256": "de14684f0bd5a35fa7ce152e177e88bc0883fecb2948e0a41b8c2f4b6cfcc3d9",
+      "bytes": 62891
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Incline_Pushdown-1.jpg",
+      "sha256": "007d480da0372c0ead68781e22fe458c31504d1dac919a8c84f158c63e48910c",
+      "bytes": 63009
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Incline_Triceps_Extension-0.jpg",
+      "sha256": "9516042fca9f3c561300749d618de6978968e0f45ba6254a431346b4cb9b8f06",
+      "bytes": 85990
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Incline_Triceps_Extension-1.jpg",
+      "sha256": "b900dcc53ac5c166f5838df874e771fc4d4208d3e949a1d7cdb51b63b04f24e7",
+      "bytes": 86736
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Judo_Flip-0.jpg",
+      "sha256": "4f1d5e3793f0ce712aa2064e1f37e4e943f6e82ddd28ab600532993ee6161acd",
+      "bytes": 912417
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Judo_Flip-1.jpg",
+      "sha256": "4cdd74a52abf2ddc7da799acbc6a3eb96e12abb5a892608b919a7be34f4ac221",
+      "bytes": 919342
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Preacher_Curl-0.jpg",
+      "sha256": "5f5e7df6bc746d797dd1cfaa80c72994c7612edc526e28b693e488c637fd5c57",
+      "bytes": 88090
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Preacher_Curl-1.jpg",
+      "sha256": "2802249da09be59139e1907f74d10a8e02b2af263354af395e3d6cccd409ad15",
+      "bytes": 87322
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Rear_Delt_Fly-0.jpg",
+      "sha256": "2769f255555468289f0ca34b942e44f02b035d2cf9e93ce6e58c0b9bc5aeb800",
+      "bytes": 53497
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Rear_Delt_Fly-1.jpg",
+      "sha256": "f7c935718b4335ae422847b8cd6e11d6d7ff748cac8978c4b26faf4a261e8f84",
+      "bytes": 56065
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Reverse_Crunch-0.jpg",
+      "sha256": "aab4acdfa674e64ed1afa20b52144027f4d21b17b5e4046bf93a1f370b75f503",
+      "bytes": 88705
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Reverse_Crunch-1.jpg",
+      "sha256": "ae72e00d23dac27299704b5410003c4c090cd9444d3db445d3a6ce7ee9271da4",
+      "bytes": 88806
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Seated_Crunch-0.jpg",
+      "sha256": "14222d8d2037a5888b3e5558870f660c704bdb4dcecd60183d1a12aeae73f9b7",
+      "bytes": 69234
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Seated_Crunch-1.jpg",
+      "sha256": "4cb3ba28fe92e95546953db003504389668f2541397638e699f86c58212b25c1",
+      "bytes": 69679
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Shoulder_Press-0.jpg",
+      "sha256": "a6948547e9b1d1fd850eb398411a6357cbd485587a96c0c69467dcd0f17db154",
+      "bytes": 72616
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Shoulder_Press-1.jpg",
+      "sha256": "2d57b2546818eab50b63bc8bbc2cb2ee2c8b1f356c81bd4fc612daecd6701a3d",
+      "bytes": 71463
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Shrugs-0.jpg",
+      "sha256": "cb797bc91377f566c78e09e46cf8080659963423c08e583fc8ce542028435147",
+      "bytes": 97808
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Shrugs-1.jpg",
+      "sha256": "9e5763c0571ff6db0b56d710d6e85801028acadc52eeb6c54f6b50e782484ebc",
+      "bytes": 98278
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Wrist_Curl-0.jpg",
+      "sha256": "af2214f3c033b6365210d238227efbb0416d2715f7b26c91836b6e748e721f42",
+      "bytes": 63432
+    },
+    {
+      "url": "/exercise-media/photos/Cable_Wrist_Curl-1.jpg",
+      "sha256": "7e12e3ffc307bfd880dd6b14bbc37a80c8f5be9ee4b1c3914f4a9daca3280ff7",
+      "bytes": 63812
+    },
+    {
+      "url": "/exercise-media/photos/Chair_Leg_Extended_Stretch-0.jpg",
+      "sha256": "0158bb0de5bb7916472b4bdeb6cc580da1b88b53f42e61c67b868ee1f6ff6a25",
+      "bytes": 31287
+    },
+    {
+      "url": "/exercise-media/photos/Chair_Leg_Extended_Stretch-1.jpg",
+      "sha256": "086a86c250d653715b5b7b0bf57c153681a7aeb36125e4481d309f08c1ed4544",
+      "bytes": 32213
+    },
+    {
+      "url": "/exercise-media/photos/Chest_And_Front_Of_Shoulder_Stretch-0.jpg",
+      "sha256": "b460dd2e9ec4da4e2a35e7dddc66dafd46bc351e1e32474bf4b31083471804fb",
+      "bytes": 24353
+    },
+    {
+      "url": "/exercise-media/photos/Chest_And_Front_Of_Shoulder_Stretch-1.jpg",
+      "sha256": "ebb2137d946e82dd9f517794812df0f99d427297ead9db76ac19156087dd55d8",
+      "bytes": 24308
+    },
+    {
+      "url": "/exercise-media/photos/Chin-Up-0.jpg",
+      "sha256": "efab20da5a0916eeef22e6fbc58040c688d1e63120681455f4c72c3a20faf6a0",
+      "bytes": 45846
+    },
+    {
+      "url": "/exercise-media/photos/Chin-Up-1.jpg",
+      "sha256": "b31bd59a44e6c7dfceca64e4232871327b9249d6fda9143149f1d35782fc97a3",
+      "bytes": 45627
+    },
+    {
+      "url": "/exercise-media/photos/Clock_Push-Up-0.jpg",
+      "sha256": "a0748265d4afc9325f3d9e8a8f29594b2a6df2413d9990427f71ff1d32a534bd",
+      "bytes": 35420
+    },
+    {
+      "url": "/exercise-media/photos/Clock_Push-Up-1.jpg",
+      "sha256": "23db6fb18b81a96cb920ff0b699e7bfde90c0258a04346bb98ebf14477273aab",
+      "bytes": 34586
+    },
+    {
+      "url": "/exercise-media/photos/Cocoons-0.jpg",
+      "sha256": "b8beb7f8bea3ce0646991925e6cdc887b1d99a715dae67d61bb62b9707fb24bd",
+      "bytes": 37627
+    },
+    {
+      "url": "/exercise-media/photos/Cocoons-1.jpg",
+      "sha256": "507881bb9ab43e0802ed0f4a21821547bbece9d4b89b22bc12372c3b3f8cc980",
+      "bytes": 37685
+    },
+    {
+      "url": "/exercise-media/photos/Cross-Body_Crunch-0.jpg",
+      "sha256": "e4461ca43d5c7becb52b5d1c71d02a5e62e54f7be1daab4170e0afcb0804e820",
+      "bytes": 61069
+    },
+    {
+      "url": "/exercise-media/photos/Cross-Body_Crunch-1.jpg",
+      "sha256": "f644b4bcb482aa40faf30c2dad5e765c9236cc87186ff8981d61de7a8770e15d",
+      "bytes": 62634
+    },
+    {
+      "url": "/exercise-media/photos/Crunch_-_Hands_Overhead-0.jpg",
+      "sha256": "799c7d2c765fa1da1ab23a514ada449342f4e0d9f0dffd2b7c31c8b99353c39f",
+      "bytes": 72741
+    },
+    {
+      "url": "/exercise-media/photos/Crunch_-_Hands_Overhead-1.jpg",
+      "sha256": "35b288d80ac51f5ac47521c21b5b629fce9c207584420a17cee9c4b7fba0d9dc",
+      "bytes": 72422
+    },
+    {
+      "url": "/exercise-media/photos/Dead_Bug-0.jpg",
+      "sha256": "8b4e3e357c201d3752ce4fe97a0f1d00b00e7479cd702f8846791fdf5df66220",
+      "bytes": 45381
+    },
+    {
+      "url": "/exercise-media/photos/Dead_Bug-1.jpg",
+      "sha256": "8de0d54e4c41433b809b045a82832c6632c35102bee945cd3caf522f054d6730",
+      "bytes": 46759
+    },
+    {
+      "url": "/exercise-media/photos/Decline_Crunch-0.jpg",
+      "sha256": "d3c4eb45a9cdedba91f1566d405df118157a81448fe5c5e7aed1e426e2790056",
+      "bytes": 62845
+    },
+    {
+      "url": "/exercise-media/photos/Decline_Crunch-1.jpg",
+      "sha256": "9c1563b656936bbaf7a130bd0ce24b294fa645dd302e865b5acd42658bdbc7cc",
+      "bytes": 60558
+    },
+    {
+      "url": "/exercise-media/photos/Decline_Push-Up-0.jpg",
+      "sha256": "ba2f543f4dd62eb28f1bb3578c87584a55b6eb67e12144981f683ab3a17d2cb9",
+      "bytes": 60911
+    },
+    {
+      "url": "/exercise-media/photos/Decline_Push-Up-1.jpg",
+      "sha256": "88d717680bc46a4a59122950248121e997931d1110d7b1326b8b5f0d226fb501",
+      "bytes": 63201
+    },
+    {
+      "url": "/exercise-media/photos/Dips_-_Chest_Version-0.jpg",
+      "sha256": "4140a8932a82e7437e10894369a0205d6f35ba333715fffd5a64de77c2c92e34",
+      "bytes": 73206
+    },
+    {
+      "url": "/exercise-media/photos/Dips_-_Chest_Version-1.jpg",
+      "sha256": "3d537e22cb97304c0c2068c5209e8db5fec69be86e0465799e1a1b502f6e992f",
+      "bytes": 72525
+    },
+    {
+      "url": "/exercise-media/photos/Donkey_Calf_Raises-0.jpg",
+      "sha256": "171ceb7f01c95c8953c5b1fc82efbd8cc7600fe51b23b9c330dadff2af4c76e1",
+      "bytes": 87923
+    },
+    {
+      "url": "/exercise-media/photos/Donkey_Calf_Raises-1.jpg",
+      "sha256": "d47d7ab19e96f378a91f745d153f0e0e5e8364bf9c0d8b2f14fd096b32b94941",
+      "bytes": 88967
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Bench_Press-0.jpg",
+      "sha256": "06494fc5d679283ad7de10fd60149e543396bbd9ba65b0821937de317ce9e001",
+      "bytes": 63319
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Bench_Press-1.jpg",
+      "sha256": "29ce1d1335b10ae5e92b208c512f4f562493379a9c49bafb249f945c5b702299",
+      "bytes": 64120
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Clean-0.jpg",
+      "sha256": "f642ca019c49f19dd0521a2ad9b5b9365aa7a99183063b4bfbbf4c42373b5854",
+      "bytes": 44202
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Clean-1.jpg",
+      "sha256": "ceeab9fb804d3c71a919d04eeed781835bddc7174fbe8b2bfdf4b47139b449ba",
+      "bytes": 37077
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Incline_Row-0.jpg",
+      "sha256": "6bdf4dd4c46fd9d50abe73802d49c87f3714dfd05774595e902a5b1765b45d46",
+      "bytes": 98338
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Incline_Row-1.jpg",
+      "sha256": "8c0cc8f09e194825429a0e7b6c96d9a2a85a5ac6005cf25d31ab65b04adfe739",
+      "bytes": 99049
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Incline_Shoulder_Raise-0.jpg",
+      "sha256": "23da366cd029f5ffe9bffc6dd2a1e7028a4cb7ea8110145b709643af42ef60f2",
+      "bytes": 53252
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Incline_Shoulder_Raise-1.jpg",
+      "sha256": "098c982c613ddbed9a4794e189a0a8496ee9c117b7bba86658d438a2bb49c993",
+      "bytes": 53073
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lunges-0.jpg",
+      "sha256": "ab3d56b0b44e82d189dfd88de2838220445cb245fae8a0f1586daa67355604d4",
+      "bytes": 55460
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lunges-1.jpg",
+      "sha256": "138a08303cb955b1f4867cf6eaeab1664c32079dcbd7fac871eccf7d9597d671",
+      "bytes": 61678
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise-0.jpg",
+      "sha256": "42eedff743e124ded8c623942128864744b85da5a6a9a94e850079a63d8e1bc0",
+      "bytes": 58119
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise-1.jpg",
+      "sha256": "00eab88d3a48a73dd0bea62720fc102e82cce3fbe3da41e9400e27fda69d3267",
+      "bytes": 57839
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lying_Pronation-0.jpg",
+      "sha256": "cf7aee916d9869c7ebcfce72a3805d8307b1dfdaf043ce706a5144cd5b0d64c0",
+      "bytes": 41927
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lying_Pronation-1.jpg",
+      "sha256": "4f0c6243fc4238eceb8ffd9c347416b0957f0589ef23d4eead3bfd588a147250",
+      "bytes": 41022
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lying_Rear_Lateral_Raise-0.jpg",
+      "sha256": "09d6633bbd678fe1ec73d140f8b32553286c399af50730c4a05e834e4c26b4eb",
+      "bytes": 58354
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lying_Rear_Lateral_Raise-1.jpg",
+      "sha256": "5aa12107279064cb70d4f248b9a78fffa784239ff295c5ed0d74ae377b687530",
+      "bytes": 59217
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lying_Supination-0.jpg",
+      "sha256": "a95d32213f2f2b52a64e11c345d2a1d025e113b9fd8adf3e6cfa49b32edcd0a9",
+      "bytes": 58455
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Lying_Supination-1.jpg",
+      "sha256": "d21ae5c9071502c9d7400e250cd75e53b43930c6891cf757f141543cb5dbee28",
+      "bytes": 57831
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_One-Arm_Shoulder_Press-0.jpg",
+      "sha256": "0a158a261801d982a288f59a69299d08a347a593b770e2d12f342131af7eae6a",
+      "bytes": 59478
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_One-Arm_Shoulder_Press-1.jpg",
+      "sha256": "fb47b91cfd5406ae6d1396ee89b1cc81eff4c45c3286e943c9f29ddc0842f374",
+      "bytes": 59520
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_One-Arm_Upright_Row-0.jpg",
+      "sha256": "b89e2dc864e3d869598ecbe392c0397ab6da1675ffddc0a99d6a3958864587b6",
+      "bytes": 53859
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_One-Arm_Upright_Row-1.jpg",
+      "sha256": "44aa33878224b96cb61aaa9ea0b519eed0743cf3922db77b381d2cd66ce667ff",
+      "bytes": 54063
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Prone_Incline_Curl-0.jpg",
+      "sha256": "c29461bbfb8446c7a42aea47787901e6754a503eb211fd73edf593e010885ccf",
+      "bytes": 61802
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Prone_Incline_Curl-1.jpg",
+      "sha256": "78f3208abd6db53191c20a23370225ccf291da9c2aa7172a50f62046feb92314",
+      "bytes": 64762
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Raise-0.jpg",
+      "sha256": "a9e1afbef05cda423734db2999a3691359adb03b0c90ce3faffb1b1c81cbea05",
+      "bytes": 55131
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Raise-1.jpg",
+      "sha256": "6fce24476905abe19ab224cba1c69431eaa4fcb32d14975a6cbad6fc2967cc77",
+      "bytes": 54062
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Rear_Lunge-0.jpg",
+      "sha256": "c89ef2d68e66077a7c416c8ae634a9772b138ab387ba93742ba097dc1596ada4",
+      "bytes": 51169
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Rear_Lunge-1.jpg",
+      "sha256": "e095d56b39fbae3789abcc56bdda9f278147e45a9da777186ff3d7f686bf8a3b",
+      "bytes": 49129
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Seated_One-Leg_Calf_Raise-0.jpg",
+      "sha256": "8a1d0067293d2c96e7a5b20c2ab8bcdaec77648154a744871ae666193e79ab6b",
+      "bytes": 51887
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Seated_One-Leg_Calf_Raise-1.jpg",
+      "sha256": "678fcfa770ac3adc959fec45e3c26d44aecf98ab40ac77e664e57e6d009974d3",
+      "bytes": 52720
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Shrug-0.jpg",
+      "sha256": "c3ab8024bdb710e8d4798f03ce15b5eba02e2e670797d61a09dc9b3e2f7c817b",
+      "bytes": 52882
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Shrug-1.jpg",
+      "sha256": "5ca8b29dd52214250c26ebfddab5bf25b5d0af3c0eede92d46e02e32684dc824",
+      "bytes": 53460
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Side_Bend-0.jpg",
+      "sha256": "c57666934e5a97159882e7cbeada175e37eb49c62d0012a8db7a0be9599bea19",
+      "bytes": 53390
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Side_Bend-1.jpg",
+      "sha256": "a4bbc39f87168b7055514d1649e632e1ee85b613c5222a2498d683ae2ff27528",
+      "bytes": 54722
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Squat-0.jpg",
+      "sha256": "04bfaa45a505214f4909392022edf361cb0ff65529bc0d289870adbb8b259b02",
+      "bytes": 51929
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Squat-1.jpg",
+      "sha256": "8ece837174f84fae7650f5bd74634898e6262679641f3b24198ddc78ebc2fd7a",
+      "bytes": 52938
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Step_Ups-0.jpg",
+      "sha256": "581f4f8eb98680a738ec97c1b9666fd2dac04d6a68a456632aaf1accbaa88118",
+      "bytes": 70516
+    },
+    {
+      "url": "/exercise-media/photos/Dumbbell_Step_Ups-1.jpg",
+      "sha256": "8fd899686805d4165937628846ebf2a6499ea1636623579d8e88234b4a1aa64c",
+      "bytes": 70840
+    },
+    {
+      "url": "/exercise-media/photos/Elbow_to_Knee-0.jpg",
+      "sha256": "08410c5570085b5a0b339502e719b109d29ddda0d7663d5a03dd6ffdd2424a61",
+      "bytes": 38032
+    },
+    {
+      "url": "/exercise-media/photos/Elbow_to_Knee-1.jpg",
+      "sha256": "87bb968b355b099c187125550bdc2dc9a186dad99d7513dc225660a1eb9d261a",
+      "bytes": 38938
+    },
+    {
+      "url": "/exercise-media/photos/Farmers_Walk-0.jpg",
+      "sha256": "e07a10c235963ea155d9504b91736f4dc1e8865b5aa3b7c744765a56bf3e2b05",
+      "bytes": 54501
+    },
+    {
+      "url": "/exercise-media/photos/Farmers_Walk-1.jpg",
+      "sha256": "5a55e8adf33bea01078ad420e8b43d2b844bb64679a3029eab165b485096fd70",
+      "bytes": 51227
+    },
+    {
+      "url": "/exercise-media/photos/Finger_Curls-0.jpg",
+      "sha256": "6ab1e5c6fca0982d91cbdcc8b2b97aabb3b110759317fdf6f81ab0acdd1c41f4",
+      "bytes": 49759
+    },
+    {
+      "url": "/exercise-media/photos/Finger_Curls-1.jpg",
+      "sha256": "f89a55fbf901a80f2f5c3eb1c9183188e6a2632fc4a0c8150ac9512c093c382b",
+      "bytes": 48832
+    },
+    {
+      "url": "/exercise-media/photos/Flutter_Kicks-0.jpg",
+      "sha256": "790c29636b60eb23b50d85e7debb57b0f053d94c7d10d8ccfe4a166b8fdc40ad",
+      "bytes": 57145
+    },
+    {
+      "url": "/exercise-media/photos/Flutter_Kicks-1.jpg",
+      "sha256": "c4a12155e263f31d9ab6c7bb4b7d3fe50fd3584f0fd1fae418ce6317d521ddac",
+      "bytes": 58673
+    },
+    {
+      "url": "/exercise-media/photos/Frankenstein_Squat-0.jpg",
+      "sha256": "60a7fcfc7a7c6e1f7d1b06fa3c38fd7a364fd9f6d1f8fe8fe4b2eaf7e77d5e5f",
+      "bytes": 37176
+    },
+    {
+      "url": "/exercise-media/photos/Frankenstein_Squat-1.jpg",
+      "sha256": "1891a46939a85f58f8a40e7a4ee9c58eeb01b16ca1d5bfb201fe915fc203f664",
+      "bytes": 35414
+    },
+    {
+      "url": "/exercise-media/photos/Front_Cable_Raise-0.jpg",
+      "sha256": "e76c418fb9de5eb3fe37d2f8aed68ebfc41dd54360dd85da04d5a967335cff8a",
+      "bytes": 72036
+    },
+    {
+      "url": "/exercise-media/photos/Front_Cable_Raise-1.jpg",
+      "sha256": "69a7ae4bc2b49e21319292400e6196986926a999dd4a95f2c02cf3ddab3223cf",
+      "bytes": 71867
+    },
+    {
+      "url": "/exercise-media/photos/Full_Range-Of-Motion_Lat_Pulldown-0.jpg",
+      "sha256": "731fefbfba4c8207749a70aecf81345f25f49c09954779d096385af118ce6023",
+      "bytes": 85464
+    },
+    {
+      "url": "/exercise-media/photos/Full_Range-Of-Motion_Lat_Pulldown-1.jpg",
+      "sha256": "336027b9b01bcd45d58a4802e36deed5568acabd4c443557e1bbe057df1e8a70",
+      "bytes": 84731
+    },
+    {
+      "url": "/exercise-media/photos/Gironda_Sternum_Chins-0.jpg",
+      "sha256": "129b7ddbf7e31ad4088eec96b5e2f63c559d5c1e491766bc39134ff761b0a07a",
+      "bytes": 43528
+    },
+    {
+      "url": "/exercise-media/photos/Gironda_Sternum_Chins-1.jpg",
+      "sha256": "fbdd1e55829b84d575fb0fe2cd31884c1c2174a4c1b5ca7b133f09038f4c2d51",
+      "bytes": 40294
+    },
+    {
+      "url": "/exercise-media/photos/Glute_Ham_Raise-0.jpg",
+      "sha256": "0056f7c5fcfd9bf11b8a2da697b735bdf4dc5ded66cf1edd929e62fa52a939f4",
+      "bytes": 42247
+    },
+    {
+      "url": "/exercise-media/photos/Glute_Ham_Raise-1.jpg",
+      "sha256": "5e4add29994c8664b8675f17233e289ddcf11fe12e8d53cd449af1f4a501e859",
+      "bytes": 36712
+    },
+    {
+      "url": "/exercise-media/photos/Hammer_Curls-0.jpg",
+      "sha256": "f3c330d75545bed1cc325a4abf84940109db64fa5ab967b1963ecccccd3b2fe8",
+      "bytes": 51669
+    },
+    {
+      "url": "/exercise-media/photos/Hammer_Curls-1.jpg",
+      "sha256": "42adf0d1577528fdfab45b360918320394a5017b082d2502ab3a00600622907e",
+      "bytes": 52323
+    },
+    {
+      "url": "/exercise-media/photos/Hamstring_Stretch-0.jpg",
+      "sha256": "68876e3448c899b71477b9e1d2b4f52be4a91b070549311a292b3ca4e90adbca",
+      "bytes": 33462
+    },
+    {
+      "url": "/exercise-media/photos/Hamstring_Stretch-1.jpg",
+      "sha256": "d6f786515eb4fb97844a0d27e8199ad80438e6d795a0b049da19b1c3c0f31f48",
+      "bytes": 30817
+    },
+    {
+      "url": "/exercise-media/photos/Handstand_Push-Ups-0.jpg",
+      "sha256": "e9478e898da2f7c1c8ba05c41439c8c8c236c4e26f432511e3854c3cc682face",
+      "bytes": 53624
+    },
+    {
+      "url": "/exercise-media/photos/Handstand_Push-Ups-1.jpg",
+      "sha256": "5699e612c0e58c250c1d803a8c5bb8b59f689612bda739dba44a207612b112c9",
+      "bytes": 52688
+    },
+    {
+      "url": "/exercise-media/photos/Hanging_Leg_Raise-0.jpg",
+      "sha256": "c166cd61aec9cd4cd3881a17602f7a6afd80df51329ea6a143e6ffcf9bebb2af",
+      "bytes": 51687
+    },
+    {
+      "url": "/exercise-media/photos/Hanging_Leg_Raise-1.jpg",
+      "sha256": "c623bd4bb6848367407ddbc7c39d1611acf9c5001fe9a61360a580b78d86fa60",
+      "bytes": 56061
+    },
+    {
+      "url": "/exercise-media/photos/Hanging_Pike-0.jpg",
+      "sha256": "9dc7ba34973204dd18815b02392553c2287197dbf5a46a6034f8ce2c3d9d4fa9",
+      "bytes": 41481
+    },
+    {
+      "url": "/exercise-media/photos/Hanging_Pike-1.jpg",
+      "sha256": "1b2cfd67c8fd0fcd83a8e66abaa6ff7f300e8216a7cba77cbbdb2ef2aa2e7c9e",
+      "bytes": 34066
+    },
+    {
+      "url": "/exercise-media/photos/Inchworm-0.jpg",
+      "sha256": "1a64eb584b6dbe5235885389b2949e2acc73111505e7ceb42cc076ee5dfe1a4b",
+      "bytes": 228340
+    },
+    {
+      "url": "/exercise-media/photos/Inchworm-1.jpg",
+      "sha256": "b0f89623bcf0888ded0f80a447872f56a7214b85ae0188621d3e1fac50cb0aee",
+      "bytes": 225501
+    },
+    {
+      "url": "/exercise-media/photos/Incline_Cable_Flye-0.jpg",
+      "sha256": "2bf52ae71a007d6f0da25881af4889b43ac6a450f952798722e96a1b07347da6",
+      "bytes": 60351
+    },
+    {
+      "url": "/exercise-media/photos/Incline_Cable_Flye-1.jpg",
+      "sha256": "6a6419c758b02dfb8800ab963d860383f969dbb243145aa07f7c923272112113",
+      "bytes": 59411
+    },
+    {
+      "url": "/exercise-media/photos/Incline_Dumbbell_Press-0.jpg",
+      "sha256": "5128af58efedb66e5d3e2454c7a1e3c7f9353b573e97c8430e37cb638da8882e",
+      "bytes": 61978
+    },
+    {
+      "url": "/exercise-media/photos/Incline_Dumbbell_Press-1.jpg",
+      "sha256": "7e4cd389cd0c537911da937657333f33118102e69f050c36906a6d49ae3f921f",
+      "bytes": 61629
+    },
+    {
+      "url": "/exercise-media/photos/Incline_Push-Up-0.jpg",
+      "sha256": "07a34cfa5ba05bd7d87f00531ccec45a7db5e9412eafd49fe269cfe4e4bb03e9",
+      "bytes": 69704
+    },
+    {
+      "url": "/exercise-media/photos/Incline_Push-Up-1.jpg",
+      "sha256": "3f9119875b57305c7e932fe9d222c5568def33da1bd38df7d5aa982c27e24541",
+      "bytes": 68439
+    },
+    {
+      "url": "/exercise-media/photos/Incline_Push-Up_Depth_Jump-0.jpg",
+      "sha256": "0922e9011d1ac6d040dc276223c03f8aecb50eae5bab46db887d7697d99cf727",
+      "bytes": 54959
+    },
+    {
+      "url": "/exercise-media/photos/Incline_Push-Up_Depth_Jump-1.jpg",
+      "sha256": "a5c6189abf6b28c4f405e722b141f531d8f376c5dfa0e064783bfd71d324ee90",
+      "bytes": 56247
+    },
+    {
+      "url": "/exercise-media/photos/Intermediate_Hip_Flexor_and_Quad_Stretch-0.jpg",
+      "sha256": "df29f89d822cd02848e7c4928680a2b12ba3b264cf238e06c3759f9a3f43c8f9",
+      "bytes": 30001
+    },
+    {
+      "url": "/exercise-media/photos/Intermediate_Hip_Flexor_and_Quad_Stretch-1.jpg",
+      "sha256": "ecdc7da99b3d78c3daf4ca627269f5fcd88f81858b3df7c02b48535366f4277e",
+      "bytes": 34779
+    },
+    {
+      "url": "/exercise-media/photos/Inverted_Row-0.jpg",
+      "sha256": "cab05c22ab07eb560c05cfe0e56029b25d4222092201fb00557ac190c64a1657",
+      "bytes": 57494
+    },
+    {
+      "url": "/exercise-media/photos/Inverted_Row-1.jpg",
+      "sha256": "c4c44d1ceeee8ae86a0c14fe82e4d9990f245054d9915f92cbcc94492053ef0b",
+      "bytes": 59968
+    },
+    {
+      "url": "/exercise-media/photos/Inverted_Row_with_Straps-0.jpg",
+      "sha256": "7631afa7118d9c70ac2ddebd48847dba00e3a6236da7473ae09c6634dee99c93",
+      "bytes": 64313
+    },
+    {
+      "url": "/exercise-media/photos/Inverted_Row_with_Straps-1.jpg",
+      "sha256": "c6cd2b6f2b4cbbb91b65c9424713c95fff5368a836527670aafea41d62872308",
+      "bytes": 64242
+    },
+    {
+      "url": "/exercise-media/photos/Isometric_Chest_Squeezes-0.jpg",
+      "sha256": "eb1d4f7792985075038b2be8e3532d508d6c92b52970317894919f6d5df639d2",
+      "bytes": 38999
+    },
+    {
+      "url": "/exercise-media/photos/Isometric_Chest_Squeezes-1.jpg",
+      "sha256": "2f98f90d8eff53b950a166ca7d93b9523a0625a8bf30ecbde33011ec49f80f59",
+      "bytes": 37768
+    },
+    {
+      "url": "/exercise-media/photos/Isometric_Wipers-0.jpg",
+      "sha256": "f196e710d6cb34e296d9ce69b54a8fec1db30b12578b07344f54aaf14fe9c851",
+      "bytes": 28896
+    },
+    {
+      "url": "/exercise-media/photos/Isometric_Wipers-1.jpg",
+      "sha256": "b3aa15a3198a6faae345d261c380620e9cfa030e805acf79bb6d3bd6c363d241",
+      "bytes": 27573
+    },
+    {
+      "url": "/exercise-media/photos/Jackknife_Sit-Up-0.jpg",
+      "sha256": "a291b1bd63f2e520d40f49183247248af68998a6d942d93e5377de3d240a8903",
+      "bytes": 66767
+    },
+    {
+      "url": "/exercise-media/photos/Jackknife_Sit-Up-1.jpg",
+      "sha256": "69d63eaa77d468aeb9881288aa3c8e83943f6fb6589018938a0d1a351b078883",
+      "bytes": 65916
+    },
+    {
+      "url": "/exercise-media/photos/Janda_Sit-Up-0.jpg",
+      "sha256": "5f056055fde30012d0ae1833b3e739c56c07311fe83dfa701ee5478b19668169",
+      "bytes": 51227
+    },
+    {
+      "url": "/exercise-media/photos/Janda_Sit-Up-1.jpg",
+      "sha256": "1fe5304527a7633a626e7e8c9f929df590b85747ab106c524a577c42188ecbd4",
+      "bytes": 51477
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Arnold_Press-0.jpg",
+      "sha256": "8694cddb83e58a24055c612c4c6253bdf986a8d35b94726934ee7c4c46ba26fc",
+      "bytes": 34476
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Arnold_Press-1.jpg",
+      "sha256": "e4afa2095aa5d45ce9a8e4d09281cd927869158e130fd5e89dd3747284ae9d62",
+      "bytes": 35474
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Figure_8-0.jpg",
+      "sha256": "2a6dfdb2bbae82d6851660c06d04474027354af37306fa3681c740be9a0cc6f6",
+      "bytes": 34469
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Figure_8-1.jpg",
+      "sha256": "65bfb43ef91b00cc32bfd20ab157b094f47489be8583c33ea0427e98c1842f8c",
+      "bytes": 35514
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Hang_Clean-0.jpg",
+      "sha256": "7f8c5906df278338637421e977ad2f996374851b1d0a167952d685df45756601",
+      "bytes": 34252
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Hang_Clean-1.jpg",
+      "sha256": "e0e41b93b4bbeee97435740343471fe28708ddfb5117d1ae6f90b0647ef4f329",
+      "bytes": 34503
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Pistol_Squat-0.jpg",
+      "sha256": "b190e30a195e697f3f2d1f4f6e9ab44a7b5f4de02371551d1de542c21cf72dfe",
+      "bytes": 34905
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Pistol_Squat-1.jpg",
+      "sha256": "da4008650e1050c144833ea09ee7295ac353f5a600fae2049e56520b63b1e771",
+      "bytes": 36055
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Seated_Press-0.jpg",
+      "sha256": "12bdb4bd9e11dbcfd39e8a0d74224e7f6888df02a1b40f3c5a0a96d1d2c91b3f",
+      "bytes": 37028
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Seated_Press-1.jpg",
+      "sha256": "28527a6ead0c6ebfbf93abd49584dd888ab8e8da9532cc7f408850db145e1524",
+      "bytes": 37156
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Seesaw_Press-0.jpg",
+      "sha256": "71bef89ed7e9c195c0d80b37685f23b1531ffca2db7560f72d0d8b9d8b3b317e",
+      "bytes": 35522
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Seesaw_Press-1.jpg",
+      "sha256": "58edbeafadc0a6f82864cbed4ad4169d6700a04c07d969bd5b65286a42481012",
+      "bytes": 36001
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Sumo_High_Pull-0.jpg",
+      "sha256": "46d1828b4891d04dca7b5b3c72107f55c51b7204b9b51c827d9e02597e9194ab",
+      "bytes": 35863
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Sumo_High_Pull-1.jpg",
+      "sha256": "4ea5fa21e606eb864609ae0d4f4107adfedde65f161cbf6b35364da508fa12ba",
+      "bytes": 33799
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Thruster-0.jpg",
+      "sha256": "b4b7fab07f3cae1994c0adf999ae6e8d979e8e3785d57368cec2449072218149",
+      "bytes": 35804
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Thruster-1.jpg",
+      "sha256": "92acb4917c7f600418561c8a18f35609d8a6824125b69eb54e6e751f02187d16",
+      "bytes": 37473
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Turkish_Get-Up_Squat_style-0.jpg",
+      "sha256": "cb06a4661b747e40d908009d5057cd6c6912c55b076a1aa88cb9d130526df038",
+      "bytes": 36960
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Turkish_Get-Up_Squat_style-1.jpg",
+      "sha256": "ddec66a2f81b9060f1ec9f19d71bf11e3da1001f9432d05db261f27e902897d6",
+      "bytes": 36787
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Windmill-0.jpg",
+      "sha256": "5b4ec258e0f7be4cc21827480e91b5035fdb9a7443dfc061b6486438de51d56c",
+      "bytes": 34988
+    },
+    {
+      "url": "/exercise-media/photos/Kettlebell_Windmill-1.jpg",
+      "sha256": "c8567970896915261677deadc0205646fcc3838ee43face860ee204c283b4447",
+      "bytes": 37301
+    },
+    {
+      "url": "/exercise-media/photos/Kipping_Muscle_Up-0.jpg",
+      "sha256": "78eaebc9bc3bd13eefe3969235a4e088179d79b4058a195e8f8c20d82173e160",
+      "bytes": 60360
+    },
+    {
+      "url": "/exercise-media/photos/Kipping_Muscle_Up-1.jpg",
+      "sha256": "c9b6d3554f0f813efc93c63d3ec7cf01f22025479ba2d6c5fbb07b17d378b118",
+      "bytes": 59627
+    },
+    {
+      "url": "/exercise-media/photos/Kneeling_Jump_Squat-0.jpg",
+      "sha256": "53b62e21545afdc2c6d7053d2460647b2deb9911bc57289f1283025daad52f96",
+      "bytes": 41016
+    },
+    {
+      "url": "/exercise-media/photos/Kneeling_Jump_Squat-1.jpg",
+      "sha256": "3807fde211da52ca0950ef2b22dae7e072ceae820f180692b3f95e03c888ae6f",
+      "bytes": 37083
+    },
+    {
+      "url": "/exercise-media/photos/Landmine_180s-0.jpg",
+      "sha256": "e4cc6ed6721e7a4a8f61271412e9f367565c77bbdfa706098d32234d5a3c0da8",
+      "bytes": 54885
+    },
+    {
+      "url": "/exercise-media/photos/Landmine_180s-1.jpg",
+      "sha256": "89b1e75dbf0816da15ed8b09161cbf5c059954b43a8e7282f18b75a83819b214",
+      "bytes": 54257
+    },
+    {
+      "url": "/exercise-media/photos/Leg-Up_Hamstring_Stretch-0.jpg",
+      "sha256": "ed2b93c092b79a0934fe9e4813d207e7f933a416a9c2c7de448021c0167d8afa",
+      "bytes": 35374
+    },
+    {
+      "url": "/exercise-media/photos/Leg-Up_Hamstring_Stretch-1.jpg",
+      "sha256": "ba6d23d002865c7a5b524f58abcd5e530aa6ac0b6de4bde5aafe2ac903c44575",
+      "bytes": 33364
+    },
+    {
+      "url": "/exercise-media/photos/Leg_Extensions-0.jpg",
+      "sha256": "54fd46441d63459e3cdd26f26b826ad049e835fb7f1984b42398fdfbdefb5bfa",
+      "bytes": 81219
+    },
+    {
+      "url": "/exercise-media/photos/Leg_Extensions-1.jpg",
+      "sha256": "9e04d0e306d8fee608305766b14a56df1d1312956d374152f58dcbf267d591a9",
+      "bytes": 82758
+    },
+    {
+      "url": "/exercise-media/photos/Leg_Press-0.jpg",
+      "sha256": "55079d514ae8d4dbc526731bb5120748e74a084ebcd546eaa890fa273427f0dc",
+      "bytes": 84753
+    },
+    {
+      "url": "/exercise-media/photos/Leg_Press-1.jpg",
+      "sha256": "f4e08d4ad4e6542f5dd923bbfabe9a28bf6c960bed02b1b9d65f6bafd6ceb051",
+      "bytes": 83900
+    },
+    {
+      "url": "/exercise-media/photos/Leverage_Iso_Row-0.jpg",
+      "sha256": "f68e7169d4d0ffcceb8f2a6f1197411806b1e4de8ba731eac43f04b816f80b6f",
+      "bytes": 57969
+    },
+    {
+      "url": "/exercise-media/photos/Leverage_Iso_Row-1.jpg",
+      "sha256": "60b3b1ec65afade81734113ead86c887948f15ad20ed9bf38aaf61071e4b1a78",
+      "bytes": 61444
+    },
+    {
+      "url": "/exercise-media/photos/London_Bridges-0.jpg",
+      "sha256": "8324571d17615c9c990a7b5334b4171de47887460e345f4c060d273c8b6d4796",
+      "bytes": 48378
+    },
+    {
+      "url": "/exercise-media/photos/London_Bridges-1.jpg",
+      "sha256": "ceab137a3405993e2db70015652a54acb5c7aa57dedfe2bb5741d2cbee7d59db",
+      "bytes": 46263
+    },
+    {
+      "url": "/exercise-media/photos/Low_Cable_Crossover-0.jpg",
+      "sha256": "275181283b0ae4ce334326c9485a98b3e381170e5478b2c6dc67e70466a59a1e",
+      "bytes": 39895
+    },
+    {
+      "url": "/exercise-media/photos/Low_Cable_Crossover-1.jpg",
+      "sha256": "64b4848cc2f8b4d66b90774a3ad22623b515a94497d0dca6a4c1e1f16895038b",
+      "bytes": 40322
+    },
+    {
+      "url": "/exercise-media/photos/Lower_Back_Curl-0.jpg",
+      "sha256": "f6ad1408b08ee25ac2e1422ef331f6fa34b90bba4ba642eab302995401043af5",
+      "bytes": 30356
+    },
+    {
+      "url": "/exercise-media/photos/Lower_Back_Curl-1.jpg",
+      "sha256": "c0259dfedbbc87a5b5932c02101c4aea6be617c5c2edd3b77720c7ddffe664ba",
+      "bytes": 31938
+    },
+    {
+      "url": "/exercise-media/photos/Lying_Leg_Curls-0.jpg",
+      "sha256": "0875bf50a6615d4dc33df63110d3c6ee55b41606ed79a9fe705e17fcb4626095",
+      "bytes": 77402
+    },
+    {
+      "url": "/exercise-media/photos/Lying_Leg_Curls-1.jpg",
+      "sha256": "4ccf6f4a26dc97dcf8241cc55e08e22579b5a02bdebafe56d74f951ceab2bd06",
+      "bytes": 87755
+    },
+    {
+      "url": "/exercise-media/photos/Medicine_Ball_Chest_Pass-0.jpg",
+      "sha256": "e5a1180336164dea6c017287e5766a2587ce73596245ccddfe2274e86e25101e",
+      "bytes": 51399
+    },
+    {
+      "url": "/exercise-media/photos/Medicine_Ball_Chest_Pass-1.jpg",
+      "sha256": "566654af5a25fd68636b5d273d91f10f1d42f08aeef6f7ca565d10ee77f53b5e",
+      "bytes": 50964
+    },
+    {
+      "url": "/exercise-media/photos/Monster_Walk-0.jpg",
+      "sha256": "678270397cff6264520bb9da3d382d5636aecc47846ffddc1a0b47bcaabbebdb",
+      "bytes": 42236
+    },
+    {
+      "url": "/exercise-media/photos/Monster_Walk-1.jpg",
+      "sha256": "0f9bcb3068cfb76d38fca224be11577243cd8217d66b5bc30efa4c6456ce0135",
+      "bytes": 42050
+    },
+    {
+      "url": "/exercise-media/photos/Mountain_Climbers-0.jpg",
+      "sha256": "6e718481714ab64cd04d1ce7b00e3bb37e428370aaa6cea4820a605f1ff0c3c0",
+      "bytes": 30166
+    },
+    {
+      "url": "/exercise-media/photos/Mountain_Climbers-1.jpg",
+      "sha256": "c1b5473de6d58555b58f3b10f7593231f9ad4c82696bff87e467eb767b24b5f8",
+      "bytes": 30259
+    },
+    {
+      "url": "/exercise-media/photos/Muscle_Up-0.jpg",
+      "sha256": "168517e1b401ee8272f40a3197ae88188889d0aad183a344b56e6ee5c0e14dae",
+      "bytes": 62705
+    },
+    {
+      "url": "/exercise-media/photos/Muscle_Up-1.jpg",
+      "sha256": "ba22b7adfdd248005e4195eea5e247dd511e0b1a0d09c2fe2dded39bd69be99c",
+      "bytes": 61885
+    },
+    {
+      "url": "/exercise-media/photos/One-Legged_Cable_Kickback-0.jpg",
+      "sha256": "a1f283eeba62ba6775d47f807a7fa2b9a1e2ba59eae1086f6e9b977815ac0874",
+      "bytes": 74142
+    },
+    {
+      "url": "/exercise-media/photos/One-Legged_Cable_Kickback-1.jpg",
+      "sha256": "0baa168e9e558cdb4867d2819d5e7a6787423a857a6e0db7f07bb1fcea27e6ac",
+      "bytes": 75672
+    },
+    {
+      "url": "/exercise-media/photos/One_Arm_Against_Wall-0.jpg",
+      "sha256": "b30a93cc3f9997b332727e489b31789ae83dd66584d4a9da6cbfd99ffc43c7ab",
+      "bytes": 29145
+    },
+    {
+      "url": "/exercise-media/photos/One_Arm_Against_Wall-1.jpg",
+      "sha256": "b30a93cc3f9997b332727e489b31789ae83dd66584d4a9da6cbfd99ffc43c7ab",
+      "bytes": 29145
+    },
+    {
+      "url": "/exercise-media/photos/One_Arm_Chin-Up-0.jpg",
+      "sha256": "213944edd4920bea97cfe4d19f21ee552ddc9b0852ee644975f03625b82b60e7",
+      "bytes": 49054
+    },
+    {
+      "url": "/exercise-media/photos/One_Arm_Chin-Up-1.jpg",
+      "sha256": "5d50fca3ec1fff9fca26fbd7108b735502ee8e9acf663dceadaf3d922361250f",
+      "bytes": 50894
+    },
+    {
+      "url": "/exercise-media/photos/One_Arm_Lat_Pulldown-0.jpg",
+      "sha256": "54c9f1e1aa19eae6aa244893c6994d64ce123d0b45f2bdd4059f5a80651e1f67",
+      "bytes": 60564
+    },
+    {
+      "url": "/exercise-media/photos/One_Arm_Lat_Pulldown-1.jpg",
+      "sha256": "3c51cffec74f3e5eb15080ff10711d0fe5ae92cd8f5b2c22ae65bb79334a1655",
+      "bytes": 63863
+    },
+    {
+      "url": "/exercise-media/photos/Otis-Up-0.jpg",
+      "sha256": "1637477e3fb2939c5406b8890daa3dd4bffff2d76741ef0a6c9fd99e585cc8cb",
+      "bytes": 40594
+    },
+    {
+      "url": "/exercise-media/photos/Otis-Up-1.jpg",
+      "sha256": "d23cc40b3fa16b487137e016f2deb2cfa78f25e96bf252b719cb480e10cb1b91",
+      "bytes": 40690
+    },
+    {
+      "url": "/exercise-media/photos/Pelvic_Tilt_Into_Bridge-0.jpg",
+      "sha256": "abd8e4e5c9aace49b11dd12f0236798f5cf83afd881e467eee241bdddc1efaa2",
+      "bytes": 30818
+    },
+    {
+      "url": "/exercise-media/photos/Pelvic_Tilt_Into_Bridge-1.jpg",
+      "sha256": "24ee9b466045d8f93260e0e5bb8686d8f0d55546e5175cba07fd710fe4ec40c5",
+      "bytes": 32136
+    },
+    {
+      "url": "/exercise-media/photos/Peroneals_Stretch-0.jpg",
+      "sha256": "651fd390fcbedb0d7f078afb124e9e7ce84fab7736016fd3231692d8f74664d7",
+      "bytes": 35473
+    },
+    {
+      "url": "/exercise-media/photos/Peroneals_Stretch-1.jpg",
+      "sha256": "1f6a1976db93125f864fc02991bf1966266ea625ed7e115d43a0c268268cc103",
+      "bytes": 36030
+    },
+    {
+      "url": "/exercise-media/photos/Plyo_Push-up-0.jpg",
+      "sha256": "c025801d0c087fe060cb029b8fef6fa8a5980ac79f208fffc3f0bf9096c6d7e5",
+      "bytes": 53226
+    },
+    {
+      "url": "/exercise-media/photos/Plyo_Push-up-1.jpg",
+      "sha256": "211f4ee9312918e55d9ad0fe205e37ea3e1b978942cfbceab9d08caa53ba8747",
+      "bytes": 52649
+    },
+    {
+      "url": "/exercise-media/photos/Posterior_Tibialis_Stretch-0.jpg",
+      "sha256": "0e4401baa35481058b051e51afb132bef11b79f1614a65c7e5dcddbe4a99d4d2",
+      "bytes": 38782
+    },
+    {
+      "url": "/exercise-media/photos/Posterior_Tibialis_Stretch-1.jpg",
+      "sha256": "937de9eb8555edb6228a3b83a1e42de6beb6a0d4cdf47856ebf224633aac41dd",
+      "bytes": 36294
+    },
+    {
+      "url": "/exercise-media/photos/Power_Clean-0.jpg",
+      "sha256": "3b81dd260783a0ca18afdbd6a04edb702a2be2ff3e3114b8d72a66ee1cfaeb66",
+      "bytes": 70183
+    },
+    {
+      "url": "/exercise-media/photos/Power_Clean-1.jpg",
+      "sha256": "5e9ea4e4d6c3d482af8733f79d09ef6b44300ceb4e92d33677d689171dfeaf0a",
+      "bytes": 70360
+    },
+    {
+      "url": "/exercise-media/photos/Pullups-0.jpg",
+      "sha256": "e56c8c43a41cfe2489dcfffc2c8195fd9e8897ba25165dbc34a4154ed6df5c7a",
+      "bytes": 42281
+    },
+    {
+      "url": "/exercise-media/photos/Pullups-1.jpg",
+      "sha256": "40549a52b064e5084a85e2c36afb51438df6ac1097169379a05f21565f8b4f3f",
+      "bytes": 40018
+    },
+    {
+      "url": "/exercise-media/photos/Push_Up_to_Side_Plank-0.jpg",
+      "sha256": "1e6ab73e9983ecedbf5a563ede5b41d1ff47b499c081ce3f72c623e48756cd39",
+      "bytes": 40866
+    },
+    {
+      "url": "/exercise-media/photos/Push_Up_to_Side_Plank-1.jpg",
+      "sha256": "074c2525f339b03d24c8f0dfc9906a348895ef33d5eceeb42332c4e9ab8f36a7",
+      "bytes": 42449
+    },
+    {
+      "url": "/exercise-media/photos/Pushups-0.jpg",
+      "sha256": "8e6757ae0dc1d50a30f0ea67cdb330994947716a106451860cf7362bcd15f9f4",
+      "bytes": 66786
+    },
+    {
+      "url": "/exercise-media/photos/Pushups-1.jpg",
+      "sha256": "e835d50facea325828d7a3700185a0d8ba9f908db3f033334f81a6f85f774f27",
+      "bytes": 64283
+    },
+    {
+      "url": "/exercise-media/photos/Reverse_Crunch-0.jpg",
+      "sha256": "e75947d8504ca71723ade3f2a5c6fbfe38c358b26eee6924e98f2e023cb788cc",
+      "bytes": 61594
+    },
+    {
+      "url": "/exercise-media/photos/Reverse_Crunch-1.jpg",
+      "sha256": "c3b300e3b33f4ef187632b5c1cab492e91cbd3e879a5d3b040ce0b11dc09bb12",
+      "bytes": 56809
+    },
+    {
+      "url": "/exercise-media/photos/Reverse_Machine_Flyes-0.jpg",
+      "sha256": "732cac68ea0780bab823ac3593f4d5f5fda1eb7c14c01620b6a2a12c2f838161",
+      "bytes": 77240
+    },
+    {
+      "url": "/exercise-media/photos/Reverse_Machine_Flyes-1.jpg",
+      "sha256": "c12b21e34fb7c46c14c0b61e29920637cd8c678474fd97a0c4ef61e86d4cf023",
+      "bytes": 77689
+    },
+    {
+      "url": "/exercise-media/photos/Ring_Dips-0.jpg",
+      "sha256": "c465c741e44fb96376bab5ba85e133614bcaf7d0449e1770c4f290a088c09b62",
+      "bytes": 74289
+    },
+    {
+      "url": "/exercise-media/photos/Ring_Dips-1.jpg",
+      "sha256": "fe240ad8768c81886d32fcfd0768047da2ab209d1273879391a30a2dd8adeb7c",
+      "bytes": 76621
+    },
+    {
+      "url": "/exercise-media/photos/Romanian_Deadlift-0.jpg",
+      "sha256": "cd62a031d395afa1f63f660370e79d812ca0f9cf52718a33ee24d9fec2a9709f",
+      "bytes": 59859
+    },
+    {
+      "url": "/exercise-media/photos/Romanian_Deadlift-1.jpg",
+      "sha256": "156406c703e8d4a172034e413b317b93907be82deaad5ea2f3cc0a9f181c7b9b",
+      "bytes": 57367
+    },
+    {
+      "url": "/exercise-media/photos/Rope_Climb-0.jpg",
+      "sha256": "d7f85b288d3e937cb49fc04d2c41d6a0079a4fd39849bf3790326d47adc40cf4",
+      "bytes": 67884
+    },
+    {
+      "url": "/exercise-media/photos/Rope_Climb-1.jpg",
+      "sha256": "9a7d38d236c3c95fb78869fc7455ac21c45d26ffa2d7c451a73cb166454c500c",
+      "bytes": 69684
+    },
+    {
+      "url": "/exercise-media/photos/Runners_Stretch-0.jpg",
+      "sha256": "36569123b4ed9d2444e6ab4d2cce3e17760c6fc4120eb96ff1eee04194e7056c",
+      "bytes": 25250
+    },
+    {
+      "url": "/exercise-media/photos/Runners_Stretch-1.jpg",
+      "sha256": "fecb616332016d5bd8a5717ada72eb74f61404ca2ab9a4cdca5e635ce7981d3b",
+      "bytes": 31583
+    },
+    {
+      "url": "/exercise-media/photos/Russian_Twist-0.jpg",
+      "sha256": "e82f47fe7f7f9ba5c75e56b751d357f6e78eb3a5adba4da3aef8df44dfa7234f",
+      "bytes": 70925
+    },
+    {
+      "url": "/exercise-media/photos/Russian_Twist-1.jpg",
+      "sha256": "7942e01c08ff47f71deea024bd6ed8d4766818d58229547770f22988b03c8da6",
+      "bytes": 70973
+    },
+    {
+      "url": "/exercise-media/photos/Scapular_Pull-Up-0.jpg",
+      "sha256": "1fdf8222fb7595f21a9c2be6073627e048e9d6e00b610240a4b4f58ab198b3e4",
+      "bytes": 73070
+    },
+    {
+      "url": "/exercise-media/photos/Scapular_Pull-Up-1.jpg",
+      "sha256": "eec694838b147d03e52e2b507def487374eb95c814bfb897b41fc4ffc0eb2901",
+      "bytes": 72929
+    },
+    {
+      "url": "/exercise-media/photos/Seated_Cable_Rows-0.jpg",
+      "sha256": "f5a4adf972f93a6c7b09e003f23005a1163653a7e36b71f1e374acab0243ddf7",
+      "bytes": 65319
+    },
+    {
+      "url": "/exercise-media/photos/Seated_Cable_Rows-1.jpg",
+      "sha256": "0b8e1a0b0fff86cafff45d851ea631a20d469713e9fd735031d3fffb0299fde6",
+      "bytes": 65659
+    },
+    {
+      "url": "/exercise-media/photos/Seated_Leg_Curl-0.jpg",
+      "sha256": "c84ece2e8b52314c8605e9fc3ef1930a59fec475ff1b5a7f98687a4b8fc580a7",
+      "bytes": 91213
+    },
+    {
+      "url": "/exercise-media/photos/Seated_Leg_Curl-1.jpg",
+      "sha256": "2cbd4aa6c22162a209a7ced5d1a68274d44e88780c8c3936c7fab57d6e9918fd",
+      "bytes": 91286
+    },
+    {
+      "url": "/exercise-media/photos/Side-Lying_Floor_Stretch-0.jpg",
+      "sha256": "93da856ff9bf9a8200e85aaed402289c28bb8a16c152f1e4826f05074697afe6",
+      "bytes": 33611
+    },
+    {
+      "url": "/exercise-media/photos/Side-Lying_Floor_Stretch-1.jpg",
+      "sha256": "c5d00fe1cecbd62514beb602845b85800d3064e8cf20b634f78f417801cd456b",
+      "bytes": 33519
+    },
+    {
+      "url": "/exercise-media/photos/Side_Lateral_Raise-0.jpg",
+      "sha256": "aa1982c367ea9151ee7769ac1f9f8795209db94a6eb85f7d51a7033886fb7ebc",
+      "bytes": 57101
+    },
+    {
+      "url": "/exercise-media/photos/Side_Lateral_Raise-1.jpg",
+      "sha256": "9210e0fb0202c306026d45a55703aaec89b3bef7aafeb7791aa1d06adcf58ab3",
+      "bytes": 56355
+    },
+    {
+      "url": "/exercise-media/photos/Side_To_Side_Chins-0.jpg",
+      "sha256": "8050d80e2286682b9b9cf77fc7e2c50a7dc60b44d091fabbc05dbb8ee8b54314",
+      "bytes": 47081
+    },
+    {
+      "url": "/exercise-media/photos/Side_To_Side_Chins-1.jpg",
+      "sha256": "fe8dc63aeaaf3b4b27cd211fa4db7203ceb4cc91a11308715df9a304c114a0cd",
+      "bytes": 44254
+    },
+    {
+      "url": "/exercise-media/photos/Single-Arm_Push-Up-0.jpg",
+      "sha256": "216dcaeedf588b1ce8757bdcbd2e021cb9214b74dee48d752a02dd41c1b82b22",
+      "bytes": 59323
+    },
+    {
+      "url": "/exercise-media/photos/Single-Arm_Push-Up-1.jpg",
+      "sha256": "49cb58ab90e9c783a96756b7c68879f8ed63638d94f01c38bb75837db762ad01",
+      "bytes": 61591
+    },
+    {
+      "url": "/exercise-media/photos/Smith_Incline_Shoulder_Raise-0.jpg",
+      "sha256": "410c41bb6038a481b8f81cd6201109b6e79f3c9f217ce28a1ab9ce9ad91c685b",
+      "bytes": 78137
+    },
+    {
+      "url": "/exercise-media/photos/Smith_Incline_Shoulder_Raise-1.jpg",
+      "sha256": "abd3ad16c013166c8f28c7e0d0d9254e0e85b43c8e91337acc34d749a4b47916",
+      "bytes": 78938
+    },
+    {
+      "url": "/exercise-media/photos/Smith_Machine_Incline_Bench_Press-0.jpg",
+      "sha256": "f395110a0b7c2f8319591805f14d6d04d89c90ab45923524249026ff5441db6c",
+      "bytes": 80605
+    },
+    {
+      "url": "/exercise-media/photos/Smith_Machine_Incline_Bench_Press-1.jpg",
+      "sha256": "fbf2193e918bd4ab4615756b2e03e0dd733bcf21f262f81b1e80ccfbb75e8aa2",
+      "bytes": 79298
+    },
+    {
+      "url": "/exercise-media/photos/Smith_Single-Leg_Split_Squat-0.jpg",
+      "sha256": "efd2dcf240ee4247d1d2a4f3c616ffaf2bca40cd27e51443049effc75e2824cc",
+      "bytes": 89864
+    },
+    {
+      "url": "/exercise-media/photos/Smith_Single-Leg_Split_Squat-1.jpg",
+      "sha256": "cb62c6be8aca47a440e8bfb05d5482da2c876bb0dec7ce8bc84524431cdf75e8",
+      "bytes": 88596
+    },
+    {
+      "url": "/exercise-media/photos/Snatch_Pull-0.jpg",
+      "sha256": "c54c8cd7231c5619d1af1c84e05e1464b92180774a46c933b6103c26992b93d4",
+      "bytes": 37568
+    },
+    {
+      "url": "/exercise-media/photos/Snatch_Pull-1.jpg",
+      "sha256": "dc2b6fe9d6a1a87c7d261dfe9dcc07bc041839d817912631aee2848f77111c35",
+      "bytes": 33237
+    },
+    {
+      "url": "/exercise-media/photos/Spell_Caster-0.jpg",
+      "sha256": "4babd464029b28fa84c15664391b63bd9ff4efd3bfd730ff5fdae68016476c0f",
+      "bytes": 46108
+    },
+    {
+      "url": "/exercise-media/photos/Spell_Caster-1.jpg",
+      "sha256": "6abd6bdd3bc69439a9760543f1c2159a4863756915a4f2057018e0f66f96d770",
+      "bytes": 44450
+    },
+    {
+      "url": "/exercise-media/photos/Split_Squat_with_Dumbbells-0.jpg",
+      "sha256": "3c5813f67aed71721eda63b2c102bd4d3e841bf6a7357c07967470bdda2d8fc8",
+      "bytes": 136429
+    },
+    {
+      "url": "/exercise-media/photos/Split_Squat_with_Dumbbells-1.jpg",
+      "sha256": "376ed996e650ce4d796ca75a4c0de1ec2133ecc9a3e9b7a285bdd718309e4c08",
+      "bytes": 143547
+    },
+    {
+      "url": "/exercise-media/photos/Split_Squats-0.jpg",
+      "sha256": "2fe194a771eee46241d36c253126e460e618add7d4242b1081c9a55bc3bce41e",
+      "bytes": 30777
+    },
+    {
+      "url": "/exercise-media/photos/Split_Squats-1.jpg",
+      "sha256": "bc68b38e518465d88bb0b523829e4ba72f71498bd72172e8f8c211816c74e0fb",
+      "bytes": 31014
+    },
+    {
+      "url": "/exercise-media/photos/Squat_Jerk-0.jpg",
+      "sha256": "fb6b9f3a9d2d1a79f65a60eb9398ad843ae7a40defae13d3549dcf6f7ef3ba70",
+      "bytes": 36938
+    },
+    {
+      "url": "/exercise-media/photos/Squat_Jerk-1.jpg",
+      "sha256": "80b0d045f321e25b7152b38cf67e72c205edf2b4b521970bf44c7066cd5a4fac",
+      "bytes": 31657
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Calf_Raises-0.jpg",
+      "sha256": "44922f411d204bb00dc86015981413e0ca503f0b9ba2346af25f345a91cf4848",
+      "bytes": 60966
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Calf_Raises-1.jpg",
+      "sha256": "f0990fed5d984fdf31c7b6a8420adb59ed6a3f286af6f228d53b68445caa1c51",
+      "bytes": 59984
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Dumbbell_Press-0.jpg",
+      "sha256": "db1ff8c6dc877a840884f8a3202eba2be7a3f14ab95065f5f18dff50c4208423",
+      "bytes": 51603
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Dumbbell_Press-1.jpg",
+      "sha256": "fe28bcdd4d76ece161141a80f79c8a18e480c262d2dec80b4beafc4720027ea8",
+      "bytes": 52825
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Lateral_Stretch-0.jpg",
+      "sha256": "79311cdaedebd74d4a89346bef2fd45a67ee9babedb2ebd19e8abdcd2689f983",
+      "bytes": 21956
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Lateral_Stretch-1.jpg",
+      "sha256": "b2dda02b97a2aa213d9afd5402352bcd8d96487127a969c3b20e6c2229dfd589",
+      "bytes": 21753
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Low-Pulley_Deltoid_Raise-0.jpg",
+      "sha256": "7d14044cc478a750fe7c2e53ee55f96467f7cf50032e090bd361d76f73aa7153",
+      "bytes": 74765
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Low-Pulley_Deltoid_Raise-1.jpg",
+      "sha256": "89c796351be03f3f971fd776955e6b1cbd747c5361a3b6b8e50aeda26af66f93",
+      "bytes": 74175
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Pelvic_Tilt-0.jpg",
+      "sha256": "44bb5116519fbf25443d6d6d138c00cfa46dbe8b6f588690e2bb6046f9d5e597",
+      "bytes": 25646
+    },
+    {
+      "url": "/exercise-media/photos/Standing_Pelvic_Tilt-1.jpg",
+      "sha256": "02590a23d8cc4077a19e663d24d7e6a80dfd705e7fe8711ba0b114fb11f73253",
+      "bytes": 25469
+    },
+    {
+      "url": "/exercise-media/photos/Straight-Arm_Dumbbell_Pullover-0.jpg",
+      "sha256": "dc47dbb75ee344369b90d81dd3b9db164f48603746141743550430a51ce15df3",
+      "bytes": 67971
+    },
+    {
+      "url": "/exercise-media/photos/Straight-Arm_Dumbbell_Pullover-1.jpg",
+      "sha256": "36c717ae69a47a96b042c890bdd2fd8c32c5bea68a5988d109ac7ba5d7a51566",
+      "bytes": 66808
+    },
+    {
+      "url": "/exercise-media/photos/Straight-Arm_Pulldown-0.jpg",
+      "sha256": "be0021aa99d1a00fa4536b027f9ade42f08acd3b59b384acab270bfbe6e9c294",
+      "bytes": 66022
+    },
+    {
+      "url": "/exercise-media/photos/Straight-Arm_Pulldown-1.jpg",
+      "sha256": "4ef6a19848a25f91f2089d168057e4c84b285d48d14758d16b3d8e131fbbc88c",
+      "bytes": 67261
+    },
+    {
+      "url": "/exercise-media/photos/Suspended_Push-Up-0.jpg",
+      "sha256": "2f73e37b4a2defc15f4f73f2bbcff27cb1942cd1a02c168357ad487df2081ea8",
+      "bytes": 64667
+    },
+    {
+      "url": "/exercise-media/photos/Suspended_Push-Up-1.jpg",
+      "sha256": "5be0bc94e6e65da28f0c63fcb1da2dba684401eb8818fe349f4a670bf403bf93",
+      "bytes": 68067
+    },
+    {
+      "url": "/exercise-media/photos/Suspended_Reverse_Crunch-0.jpg",
+      "sha256": "da2ba0190e8bf44c94ef57a4d5cdfca540bd25951ea39bff4dc3d5436dfaadb2",
+      "bytes": 66325
+    },
+    {
+      "url": "/exercise-media/photos/Suspended_Reverse_Crunch-1.jpg",
+      "sha256": "440937ed547491fc05eb138eb60a79938eab97b322d73d3e5ccb3d56ab489887",
+      "bytes": 71284
+    },
+    {
+      "url": "/exercise-media/photos/Suspended_Row-0.jpg",
+      "sha256": "edfd60517553a1d22b48c0f01585658bf783f93e2004b3289893f18d213a4f18",
+      "bytes": 71342
+    },
+    {
+      "url": "/exercise-media/photos/Suspended_Row-1.jpg",
+      "sha256": "9bbe152e839da67bc1f919d5539bce140564c73e9e0db5685bf24b4b599cacac",
+      "bytes": 69829
+    },
+    {
+      "url": "/exercise-media/photos/Suspended_Split_Squat-0.jpg",
+      "sha256": "94b39835fb4abce2fcfe85887e370349e2653ab045ebbc9ed9153587f17d0ab8",
+      "bytes": 69350
+    },
+    {
+      "url": "/exercise-media/photos/Suspended_Split_Squat-1.jpg",
+      "sha256": "dcb6abf9cce948b9f4a423ef2f5f2d34b16d0f02665f687d902e6449da828b56",
+      "bytes": 66461
+    },
+    {
+      "url": "/exercise-media/photos/Thigh_Abductor-0.jpg",
+      "sha256": "572cef392f2a10c377153c5fe0acd5e0b4d0e881024ff6a7fdd4a6320dc7ed51",
+      "bytes": 82032
+    },
+    {
+      "url": "/exercise-media/photos/Thigh_Abductor-1.jpg",
+      "sha256": "c438500671ec2dc6fa726086ec4a56903635ee65e37b3449174f18aaed1409c9",
+      "bytes": 86241
+    },
+    {
+      "url": "/exercise-media/photos/Tire_Flip-0.jpg",
+      "sha256": "7ef98dd2f945f896185742e7a662a8f41f72f477d1a912f92144561a34cbdffd",
+      "bytes": 37758
+    },
+    {
+      "url": "/exercise-media/photos/Tire_Flip-1.jpg",
+      "sha256": "86c7540d92d8b574b63958eb91f2fe3c63d95f0e9bed4b46f97a83100f9ac5e4",
+      "bytes": 36192
+    },
+    {
+      "url": "/exercise-media/photos/Trap_Bar_Deadlift-0.jpg",
+      "sha256": "541c735e260754b50e9da3320578ce252d1a0e61de93fa3c82e154c1a7c7417d",
+      "bytes": 111196
+    },
+    {
+      "url": "/exercise-media/photos/Trap_Bar_Deadlift-1.jpg",
+      "sha256": "34bdaa71ed3282d48d7b83113b434f776a97028cc1cc332876091779a30ac181",
+      "bytes": 86805
+    },
+    {
+      "url": "/exercise-media/photos/Triceps_Pushdown_-_V-Bar_Attachment-0.jpg",
+      "sha256": "c461989452d9f0ebaa0f88bf452a8cee66235e7d901b48aceb3b414fd20692f8",
+      "bytes": 72787
+    },
+    {
+      "url": "/exercise-media/photos/Triceps_Pushdown_-_V-Bar_Attachment-1.jpg",
+      "sha256": "d9896b2d9be8ed7f042831ca7acf3d282dde16facfef1280cd97b087a1023025",
+      "bytes": 72641
+    },
+    {
+      "url": "/exercise-media/photos/Triceps_Stretch-0.jpg",
+      "sha256": "a5e6f3c70006a40f44c7dfdd5245f6ee939e8f12b6bfc104253389ccc1cea09a",
+      "bytes": 22947
+    },
+    {
+      "url": "/exercise-media/photos/Triceps_Stretch-1.jpg",
+      "sha256": "1831bac6126e51bf9c0d83a81cef852a1eb77ffe6a686891bf7cc2d68dc79963",
+      "bytes": 22340
+    },
+    {
+      "url": "/exercise-media/photos/Tuck_Crunch-0.jpg",
+      "sha256": "d85d3827d306d63ea33e69903f8c6c7804805e5ddda8fbfdcb6d7a76e186f05f",
+      "bytes": 59111
+    },
+    {
+      "url": "/exercise-media/photos/Tuck_Crunch-1.jpg",
+      "sha256": "9b96491da830d7a875731a3fb12ab31765021b700988f3fdb1965e8f365aef8c",
+      "bytes": 56811
+    },
+    {
+      "url": "/exercise-media/photos/Upper_Back_Stretch-0.jpg",
+      "sha256": "44bb5116519fbf25443d6d6d138c00cfa46dbe8b6f588690e2bb6046f9d5e597",
+      "bytes": 25646
+    },
+    {
+      "url": "/exercise-media/photos/Upper_Back_Stretch-1.jpg",
+      "sha256": "f3b423d7808790cf3227cdfdb98f90d9215fc70f424e6816889c56ab6b388053",
+      "bytes": 21434
+    },
+    {
+      "url": "/exercise-media/photos/V-Bar_Pulldown-0.jpg",
+      "sha256": "34ca5813b3eefa0dad24c9c62c8bb2e384c11a186958ff31041ef5691a6d8d7a",
+      "bytes": 65637
+    },
+    {
+      "url": "/exercise-media/photos/V-Bar_Pulldown-1.jpg",
+      "sha256": "c6884f3595ec437ff2331d8c42886f4e2f1cbd004a4c1ae35f2e58b94b343b8b",
+      "bytes": 66946
+    },
+    {
+      "url": "/exercise-media/photos/Weighted_Bench_Dip-0.jpg",
+      "sha256": "1a766d8998e7e73f972ea2c4d75de09b3beb4bd4c304daa502bf63008b42c9b6",
+      "bytes": 51534
+    },
+    {
+      "url": "/exercise-media/photos/Weighted_Bench_Dip-1.jpg",
+      "sha256": "3b08bc6683766a569ca48456d148d1d2b3d90ee5a11979e2b01affd41ea77900",
+      "bytes": 50589
+    },
+    {
+      "url": "/exercise-media/photos/Weighted_Pull_Ups-0.jpg",
+      "sha256": "066e6552683526c9fefa1ca8a5dd73f7428a3e32a8f65a4ee4ccdca2bf6dd7ce",
+      "bytes": 100524
+    },
+    {
+      "url": "/exercise-media/photos/Weighted_Pull_Ups-1.jpg",
+      "sha256": "1c9ca5cf666a656d690f2e9793f5e4a6b87b913fe31bb48a8d8ccf6bbcf7bd83",
+      "bytes": 102293
+    },
+    {
+      "url": "/exercise-media/photos/Weighted_Sissy_Squat-0.jpg",
+      "sha256": "6607652c427d440ee00bb58894e57688fc253dc94649475851bf5c16537efbff",
+      "bytes": 56427
+    },
+    {
+      "url": "/exercise-media/photos/Weighted_Sissy_Squat-1.jpg",
+      "sha256": "45d8d70af3e85e8f0445ce4e5710e02bc28a4e96663dacbe85fb9e67373d81f8",
+      "bytes": 56599
+    },
+    {
+      "url": "/exercise-media/photos/Weighted_Squat-0.jpg",
+      "sha256": "768632f7370c97c8b2a105e4ce4b9d245e61334f4654d06c0e4026563f3f3200",
+      "bytes": 68506
+    },
+    {
+      "url": "/exercise-media/photos/Weighted_Squat-1.jpg",
+      "sha256": "0001db6e233054737cdd6ed8f7db80ec5f25ef18d15bfcb7da1500216c8a2823",
+      "bytes": 67301
+    },
+    {
+      "url": "/exercise-media/photos/Wide-Grip_Rear_Pull-Up-0.jpg",
+      "sha256": "f28ed6362fc45a1dcc52ca218723cce9222a8d19651a72c285161e05b68a46d3",
+      "bytes": 41825
+    },
+    {
+      "url": "/exercise-media/photos/Wide-Grip_Rear_Pull-Up-1.jpg",
+      "sha256": "79e8f744ed0424a1506355d5060eae1de831a17db6f09400ad0a6c85dc473d9c",
+      "bytes": 39273
+    },
+    {
+      "url": "/exercise-media/photos/Wind_Sprints-0.jpg",
+      "sha256": "157fb0cf709b9ebf8d7b490db04d939d12edb5f55cfb31d0e066be9114728151",
+      "bytes": 42526
+    },
+    {
+      "url": "/exercise-media/photos/Wind_Sprints-1.jpg",
+      "sha256": "99d7cf3e79308a73d3e4c5f32f8e5da6852bf3e36b8535434e3294830c0b676d",
+      "bytes": 42189
+    },
+    {
+      "url": "/exercise-media/photos/Wrist_Circles-0.jpg",
+      "sha256": "0a5cdd08f243f6c90cd20b64a15244e94562feba83c5114c17c04f7858cf3003",
+      "bytes": 61388
+    },
+    {
+      "url": "/exercise-media/photos/Wrist_Circles-1.jpg",
+      "sha256": "7da7668a84e7fcf290aa199409b8911bde6a57a5b78d54f0413d143d2a9827c6",
+      "bytes": 62335
+    }
+  ]
+}

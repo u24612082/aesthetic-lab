@@ -1,0 +1,36 @@
+[
+  {
+    "key": "off-6009708962416",
+    "barcode": "6009708962416",
+    "name": "Vegan Gorilla Gainer",
+    "brand": "Nutritech",
+    "kcal": 400,
+    "protein": 28,
+    "carbs": 69.3,
+    "fat": 1.2,
+    "basis": "per 100 g powder; check exact pack",
+    "provenance": "Open Food Facts community label, retrieved 2026-11-01; confirm barcode, flavour and pack. ODbL.",
+    "source_url": "https://world.openfoodfacts.org/product/6009708962416",
+    "category": "Supplements",
+    "featured": 1,
+    "portions_json": "[]",
+    "search_terms": "nutritec nutritech mass gainer mass builder supplement protein shake powder"
+  },
+  {
+    "key": "off-6009802884157",
+    "barcode": "6009802884157",
+    "name": "Premium Mass Anabolic Muscle Builder",
+    "brand": "Nutritech",
+    "kcal": 357,
+    "protein": 37.5,
+    "carbs": 50,
+    "fat": 0.25,
+    "basis": "per 100 g powder; check exact pack",
+    "provenance": "Open Food Facts community label, retrieved 2026-11-01; confirm barcode, flavour and pack. ODbL.",
+    "source_url": "https://world.openfoodfacts.org/product/6009802884157",
+    "category": "Supplements",
+    "featured": 1,
+    "portions_json": "[]",
+    "search_terms": "nutritec nutritech mass gainer mass builder supplement protein shake powder"
+  }
+]

@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.env
+.env-coach-*
+var/
+certs/
+dist/
+*.sqlite*
+.DS_Store
+ios/*.xcodeproj/
+ios/DerivedData/
+node_modules/
+opengym/frontend/dist/
+
+# Machine-local Claude project configuration (regenerate with setup_claude_pro.py).
+.mcp.json
+
+# Local assistant/editor tooling is never part of the repository.
+.claude/
+CLAUDE.md
+.github/modernize/

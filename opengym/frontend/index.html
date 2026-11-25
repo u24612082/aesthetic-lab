@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Aesthetic Lab — Workout Tracker</title>
+<meta name="description" content="Personal gym & body weight tracker">
+<meta name="theme-color" content="#0c0e12">
+<meta name="aesthetic-build" content="__BUILD_ID__">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Aesthetic Lab">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" href="icon-180.png">
+</head>
+<body>
+<section id="app-startup" role="status" style="max-width:480px;margin:18vh auto;padding:24px;font:17px/1.6 -apple-system,BlinkMacSystemFont,sans-serif;color:#f4f4f5;background:#14161c;border-radius:20px">
+<h1 style="font-size:26px;margin:0 0 12px">Aesthetic Lab</h1>
+<p id="app-startup-message">Opening your saved gym log…</p>
+<p id="app-startup-help" hidden>Reload the app to try again. Saved entries are kept on this device. If the offline download needs repair, reconnect to your Mac at home.</p>
+<a id="app-startup-retry" href="./" hidden style="display:none;color:#b8f45c;padding:12px 0">Reload app</a>
+</section>
+<div id="root"></div>
+<script src="/startup.js"></script>
+<script type="module" src="/src/main.jsx"></script>
+</body>
+</html>
