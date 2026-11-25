@@ -6,7 +6,7 @@ Built from [OpenGym](https://github.com/alexpcosta/opengym) with a FastAPI + SQL
 
 | | macOS | Windows 10/11 | Linux |
 |---|---|---|---|
-| Tracker, nutrition, analytics | yes | yes | should work (CI-tested) |
+| Tracker, nutrition, analytics | yes | yes | should work (not tested by the author) |
 | One-click launcher | `Start Aesthetic Lab.command` | `Start Aesthetic Lab.bat` | `python3 scripts/run.py` |
 | Background service at login | yes (launchd) | no, start it when you need it | no |
 | iPhone home-network pairing | yes | no | no |
@@ -111,7 +111,7 @@ Read this before changing anything. It is the authoritative short briefing for a
 3. **Training-data semantics.** Distinguish planned sets per rotation from completed calendar-period exposure. Drafts and unchecked sets are not performed training. Do not infer form quality, visual symmetry, physique change or fatigue from volume alone. Load increases need the documented technique prerequisite and enough performance context. Coaching reviews may propose bounded adjustments; programme changes are never applied automatically.
 4. **Cross-platform code.** Keep it working on macOS, Windows and Linux: build paths with `pathlib`, pass `encoding='utf-8'` to every text read/write (Windows defaults to a legacy code page), avoid POSIX-only calls without an `os.name == 'nt'` branch (see `_stop()` in `auto_coach.py` and the signal handling in `server.py`), and keep the `.venv/bin` versus `.venv/Scripts` difference inside `scripts/install.py:venv_python()`.
 5. **Licences.** The project is AGPL-3.0-or-later. Exercise artwork (RepDB, free-exercise-db) and food data carry separate terms listed in `NOTICE.md` and `aesthetic_lab/exercise_media/`; keep those files and the in-app credit.
-6. **Before finishing a change** run the backend tests, and the frontend tests if `opengym/frontend` changed. CI runs the same on Ubuntu, macOS and Windows plus a one-command install smoke test.
+6. **Before finishing a change** run the backend tests, and the frontend tests if `opengym/frontend` changed. The workflow in `.github/workflows/ci.yml` runs the same on Ubuntu, macOS and Windows plus a one-command install smoke test.
 
 **Do not commit:** `.env`, `var/`, `certs/`, `.mcp.json`, databases, backups, `.venv/`, `node_modules/`, or editor/assistant config directories.
 
